@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1074619646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc8dd56c9d7f13d70face76dc0acc16e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a93c42d243ef11b2705e48521d57ce3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cc8dd56c9d7f13d70face76dc0acc16e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f4591e6ef125534dada831973d4130f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5d2e51b01d34f941afb657f06972821, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 955192fb6cf02a245a9e4b04667649e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6d3b4ad0aabc64408a053c8da95b5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e88583c408674d4bad1d52c226ee09a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a1734fcf7da8f84c9c144e71d2449a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ae72bbdd5dcca54f95119548373eb75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MuzzleJet/Particle
+- AssemblyName: Assembly-CSharp
+  ClassName: MuzzleSparks/ByteCurveValue
+- AssemblyName: Assembly-CSharp
+  ClassName: MuzzleSparks/CurveValue
+- AssemblyName: Assembly-CSharp
+  ClassName: PreviewPivot/IconSettings
+Assets:
+- Assets/KS-1/Assets/NEW M4/ExportedProject/Assets/Content/Weapons/ar15_radian/KS1_11_5in
+  Black.prefab
+Dependencies:
+- C:/Users/jhopw/OneDrive/Desktop/KS1_rebuilt_bundles_audiofix_20260611_211724/spy/textures/ks1-tex.bundle

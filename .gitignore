@@ -1,0 +1,5 @@
+bundles_backup*/
+*.bak
+*.bak-*
+*.tmp
+*.log

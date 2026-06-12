@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1350603404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01e66c797deee2be0bf05eaba4fd2553
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a58308b0a61450e908d90f3a2fd8abfd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 01e66c797deee2be0bf05eaba4fd2553
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e88583c408674d4bad1d52c226ee09a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 047cc607754faa644b4aeb0a3139141f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: PreviewPivot/IconSettings
+Assets:
+- Assets/KS-1/Assets/NEW M4/ExportedProject/Assets/Content/Weapons/ar15_radian/handguard_KS1_12_75_inch
+  Black.prefab
+Dependencies:
+- C:/Users/jhopw/OneDrive/Desktop/KS1_rebuilt_bundles_audiofix_20260611_211724/spy/textures/ks1-tex.bundle
