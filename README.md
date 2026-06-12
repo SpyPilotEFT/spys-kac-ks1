@@ -2,6 +2,7 @@
 
 ![Spy's KAC KS-1 preview](media/ks1-preview.png)
 ![Spy's KAC KS-1 rifle preview](media/ks1-preview-2.png)
+![Spy's KAC KS-1 gameplay preview](media/ks1-gameplay.gif)
 
 SPT 4.0.13 weapon mod adding Knight's Armament KS-1 variants, parts, presets, and Peacekeeper assort entries.
 
