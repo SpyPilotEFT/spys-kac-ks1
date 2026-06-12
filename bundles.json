@@ -1,0 +1,218 @@
+﻿{
+    "manifest":  [
+                     {
+                         "key":  "spy_shaders.bundle",
+                         "dependencyKeys":  [
+                                                "epic_shaders.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "textures/ks1-tex",
+                         "dependencyKeys":  [
+
+                                            ]
+                     },
+                     {
+                         "key":  "charge_kac_ks1_ambi.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "charge_kac_ks1_ambi_black.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "gas_block_kac_ks1_low_profile.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "handguard_kac_urx6_15_black.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "handguard_kac_urx6_15_fde.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "handguard_kac_urx6_105_black.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "handguard_kac_urx6_105_fde.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "handguard_kac_urx6_1275_black.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "handguard_kac_urx6_1275_fde.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "mount_kac_mlok_to_pic.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "muzzle_kac_ks1_3prong.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "reciever_kac_ks1_upper_black.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "reciever_kac_ks1_upper_fde.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "stock_kac_ks1_receiver_extension_fde.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "textures/ks1-tex.bundle",
+                         "dependencyKeys":  [
+                                                "spy_shaders.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_16_barrel.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_16_barrel_black.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_115_barrel.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_115_barrel_black.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_137_barrel.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_137_barrel_black.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_145_barrel.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_145_barrel_black.bundle",
+                         "dependencyKeys":  [
+                                                "assets/systems/effects/smoke.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_556x45_black_container.bundle",
+                         "dependencyKeys":  [
+                                                "assets/content/audio/blendoptions/assets.bundle",
+                                                "assets/content/weapons/additional_hands/client_assets.bundle",
+                                                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                                                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     },
+                     {
+                         "key":  "weapon_kac_ks1_556x45_container.bundle",
+                         "dependencyKeys":  [
+                                                "assets/content/audio/blendoptions/assets.bundle",
+                                                "assets/content/weapons/additional_hands/client_assets.bundle",
+                                                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                                                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                                                "epic_shaders.bundle",
+                                                "spy_shaders.bundle",
+                                                "textures/ks1-tex.bundle"
+                                            ]
+                     }
+                 ]
+}
