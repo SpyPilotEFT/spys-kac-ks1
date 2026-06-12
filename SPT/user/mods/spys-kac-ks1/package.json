@@ -1,0 +1,14 @@
+﻿{
+    "name":  "spys-kac-ks1",
+    "version":  "1.0.1",
+    "sptVersion":  "4.0.13",
+    "main":  "com.spy.kac-ks1.dll",
+    "license":  "CC BY-NC-ND 4.0",
+    "author":  "SpyPilot",
+    "contributors":  [
+                         "bobinstein - Unity/Blender/shader help",
+                         "EpicRangeTime - shaders"
+                     ],
+    "description":  "Spy\u0027s KAC KS-1 weapon mod for SPT 4.0.13. Server-side only."
+}
+
