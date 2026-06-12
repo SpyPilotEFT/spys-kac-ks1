@@ -13,11 +13,10 @@ Current release: 1.0.1
 Open the release archive. It is structured like this:
 
 ```txt
-Spys-KAC-KS1-1.0.1
-+-- SPT
-    +-- user
-        +-- mods
-            +-- spys-kac-ks1
+SPT
++-- user
+    +-- mods
+        +-- spys-kac-ks1
 ```
 
 Drag the `SPT` folder from the archive into the same place you keep your SPT install and allow Windows to merge folders.
