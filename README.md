@@ -5,8 +5,10 @@ SPT 4.0.13 weapon mod adding Knight's Armament KS-1 variants, parts, presets, an
 ## Credits
 
 - SpyPilot: mod author
-- bobinstein: model/material cleanup, server-code simplification, Unity/bundle work
-- EpicRangeTime: shader base used for the included custom shader bundle
+- EpicRangeTime: shaders
+- bobinstein: Unity, Blender, and shader help
+
+Please credit both bobinstein and EpicRangeTime when redistributing, mirroring, or showcasing this mod.
 
 ## Notes
 
