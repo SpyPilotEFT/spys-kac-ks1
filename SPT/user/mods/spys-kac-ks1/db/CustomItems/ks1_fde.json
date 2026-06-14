@@ -28,9 +28,9 @@
       "Ergonomics": 62,
       "SightingRange": 500,
       "Velocity": 0,
-      "DurabilityBurnRatio": 0.95,
-      "HeatFactorGun": 0.95,
-      "CoolFactorGun": 1.05,
+      "DurabilityBurnRatio": 0.9,
+      "HeatFactorGun": 0.9,
+      "CoolFactorGun": 3.35,
       "Slots": [
         {
           "_id": "67f1a1000000000000000300",
@@ -359,7 +359,7 @@
           {
             "_id": "6a2b0c507ede118c164cd53c",
             "_tpl": "5c1780312e221602b66cc189",
-            "parentId": "67f1a1000000000000000191",
+            "parentId": "67f1a1000000000000000194",
             "slotId": "mod_sight_rear",
             "upd": {
               "Sight": {
@@ -785,8 +785,8 @@
       "Ergonomics": 1,
       "Recoil": 1,
       "Velocity": -8,
-      "HeatFactorGun": 0.92,
-      "CoolFactorGun": 1.08,
+      "HeatFactorGun": 0.9,
+      "CoolFactorGun": 3.2,
       "Slots": [
         {
           "_id": "67f1a1000000000000000320",
@@ -911,8 +911,8 @@
       "Ergonomics": 0,
       "Recoil": -2,
       "Velocity": -5,
-      "HeatFactorGun": 0.9,
-      "CoolFactorGun": 1.1,
+      "HeatFactorGun": 0.88,
+      "CoolFactorGun": 3.35,
       "Slots": [
         {
           "_id": "67f1a1000000000000000324",
@@ -1037,8 +1037,8 @@
       "Ergonomics": -1,
       "Recoil": -3,
       "Velocity": -3,
-      "HeatFactorGun": 0.89,
-      "CoolFactorGun": 1.11,
+      "HeatFactorGun": 0.86,
+      "CoolFactorGun": 3.45,
       "Slots": [
         {
           "_id": "67f1a1000000000000000326",
@@ -1163,8 +1163,8 @@
       "Ergonomics": -2,
       "Recoil": -5,
       "Velocity": 0,
-      "HeatFactorGun": 0.88,
-      "CoolFactorGun": 1.12,
+      "HeatFactorGun": 0.84,
+      "CoolFactorGun": 3.55,
       "Slots": [
         {
           "_id": "67f1a100000000000000032a",

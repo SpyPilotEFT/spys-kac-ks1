@@ -1,6 +1,6 @@
 ﻿{
     "name":  "spys-kac-ks1",
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "sptVersion":  "4.0.13",
     "main":  "com.spy.kac-ks1.dll",
     "license":  "CC BY-NC-ND 4.0",
