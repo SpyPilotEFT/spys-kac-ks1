@@ -13,12 +13,13 @@ Current release: 1.0.4
 Open the release archive. It is structured like this:
 
 ```txt
-user
-+-- mods
-    +-- spys-kac-ks1
+SPT
++-- user
+    +-- mods
+        +-- spys-kac-ks1
 ```
 
-Drag the `user` folder from the archive into your SPT install root and allow Windows to merge folders.
+Drag the `SPT` folder from the archive into the same place you keep your SPT install and allow Windows to merge folders.
 
 This mod is server-side only. There is no BepInEx plugin for the KS-1.
 
