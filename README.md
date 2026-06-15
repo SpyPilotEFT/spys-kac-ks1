@@ -6,7 +6,7 @@
 
 SPT 4.0.13 weapon mod adding Knight's Armament KS-1 variants, parts, presets, and Peacekeeper assort entries.
 
-Current release: 1.0.1
+Current release: 1.0.4
 
 ## Install
 
@@ -36,3 +36,10 @@ Please credit both bobinstein and EpicRangeTime when redistributing, mirroring, 
 - Built for SPT 4.0.13.
 - Requires WTT-ServerCommonLib.
 - Bundles include the custom shader/assets needed by the mod.
+
+## Changelog
+
+### 1.0.4
+
+- Removed leftover `epic_shaders.bundle` dependency references from `bundles.json`.
+- This is a cleanup-only change. The dependency was not required by the included shader bundle and should not affect visuals or functionality.
