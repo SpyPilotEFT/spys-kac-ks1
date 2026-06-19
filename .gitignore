@@ -3,3 +3,5 @@ bundles_backup*/
 *.bak-*
 *.tmp
 *.log
+bin/
+obj/

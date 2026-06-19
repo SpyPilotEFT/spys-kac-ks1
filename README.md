@@ -8,6 +8,10 @@ SPT 4.0.13 weapon mod adding Knight's Armament KS-1 variants, parts, presets, an
 
 Current release: 1.0.4
 
+## Source
+
+The C# source used for the server loader DLL is in `src/KAC_KS1`.
+
 ## Install
 
 Open the release archive. It is structured like this:
