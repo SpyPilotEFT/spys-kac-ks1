@@ -9,7 +9,7 @@ public sealed record ModMetadata : AbstractModMetadata
     public override string ModGuid { get; init; } = "com.spy.kac-ks1";
     public override string Name { get; init; } = "kac-ks1";
     public override string Author { get; init; } = "Spy";
-    public override SemVersion Version { get; init; } = new("1.0.0");
+    public override SemVersion Version { get; init; } = new("1.0.5");
     public override SemRange SptVersion { get; init; } = new("^4.0.13");
     public override string License { get; init; } = "MIT";
     public override bool? IsBundleMod { get; init; } = true;

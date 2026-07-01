@@ -3,10 +3,11 @@
 ![Spy's KAC KS-1 preview](media/ks1-preview.png)
 ![Spy's KAC KS-1 rifle preview](media/ks1-preview-2.png)
 ![Spy's KAC KS-1 gameplay preview](media/ks1-gameplay.gif)
+![SOLGW MK1 color variants](media/solgw-mk1-variants.png)
 
-SPT 4.0.13 weapon mod adding Knight's Armament KS-1 variants, parts, presets, and Peacekeeper assort entries.
+SPT 4.0.13 weapon mod adding Knight's Armament KS-1 and SOLGW MK1 variants, parts, presets, and Peacekeeper assort entries.
 
-Current release: 1.0.4
+Current release: 1.0.5
 
 ## Source
 
@@ -41,7 +42,17 @@ Please credit both bobinstein and EpicRangeTime when redistributing, mirroring, 
 - Requires WTT-ServerCommonLib.
 - Bundles include the custom shader/assets needed by the mod.
 
+## Known Issues
+
+- Failure-to-eject animation still needs to be fixed.
+
 ## Changelog
+
+### 1.0.5
+
+- Added SOLGW MK1 weapon variants in Black, FDE, Camo, and Grey.
+- Fixed the KS-1 audio glitch. Thanks to bobinstein for the fix.
+- Fixed KS-1 backpack compatibility so backpacks can no longer attach to the top rail.
 
 ### 1.0.4
 
