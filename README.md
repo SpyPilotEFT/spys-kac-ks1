@@ -4,6 +4,7 @@
 ![Spy's KAC KS-1 rifle preview](media/ks1-preview-2.png)
 ![Spy's KAC KS-1 gameplay preview](media/ks1-gameplay.gif)
 ![SOLGW MK1 color variants](media/solgw-mk1-variants.png)
+![SOLGW MK1 camo weapon build](media/solgw-mk1-camo-build.png)
 
 SPT 4.0.13 weapon mod adding Knight's Armament KS-1 and SOLGW MK1 variants, parts, presets, and Peacekeeper assort entries.
 
