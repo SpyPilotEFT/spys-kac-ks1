@@ -45,6 +45,7 @@ Please credit both bobinstein and EpicRangeTime when redistributing, mirroring, 
 ## Known Issues
 
 - Failure-to-eject animation still needs to be fixed.
+- The SOLGW MK1 12.75-inch Gray handguard currently uses the `grey` bundle, which displays the wrong length. The matching `gray` bundle was removed because it causes the large red in-game item error.
 
 ## Changelog
 

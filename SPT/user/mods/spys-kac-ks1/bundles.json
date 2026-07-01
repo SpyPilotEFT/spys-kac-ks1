@@ -356,7 +356,7 @@
     },
 
     {
-      "key": "solgw_handguard_gray_12.bundle",
+      "key": "solgw_handguard_grey_12.bundle",
       "dependencyKeys": [
         "spy_shaders_solgw.bundle",
         "textures/solgw_textures.bundle"
