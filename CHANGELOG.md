@@ -14,6 +14,12 @@
 - Fixed recursive attachment loops reported by APBS on GFR/GFR-X handguard filters.
 - Fixed the LMT monolithic upper item data issue that could break Peacekeeper's displayed inventory.
 - Fixed SOLGW stock-slot setup so the rifle exposes the intended stock slot.
+- Fixed the KS-1 heat-wave effect.
+- Fixed the SOLGW gray handguard bundle.
+- Fixed SOLGW MK1 handguards showing as compatible with SIG SPEAR uppers.
+- Fixed a KS-1 failure-to-eject animation issue.
+- Fixed invalid gear compatibility that allowed the First Spear Strandhogg plate carrier (ABUPAT) to attach to JSOC weapon handguards.
+- Fixed invalid gear compatibility that allowed the Tasmanian Tiger Modular Pack 45 Plus (MultiCam Black) backpack to attach to JSOC weapon handguards.
 
 Install warning: delete the old `user/mods/spys-kac-ks1` folder before installing `spys-JSOC-SWR`. Running both folders together can break the mod.
 

@@ -25,3 +25,8 @@ Highlights:
 - Fixed APBS recursive attachment-loop reports on GFR/GFR-X handguard filters.
 - Fixed the LMT monolithic upper item data issue that could break Peacekeeper's displayed inventory.
 - Fixed SOLGW stock-slot setup.
+- Fixed the KS-1 heat-wave effect.
+- Fixed the SOLGW gray handguard bundle.
+- Fixed SOLGW MK1 handguards showing as compatible with SIG SPEAR uppers.
+- Fixed a KS-1 failure-to-eject animation issue.
+- Fixed invalid Strandhogg ABUPAT and Tasmanian Tiger Modular Pack compatibility on JSOC weapon handguards.
