@@ -6,6 +6,14 @@ JSOC-SWR stands for Joint Special Operations Command Service Weapon Replacement.
 
 Important: delete the old `user/mods/spys-kac-ks1` folder before installing this version. Do not run the old KAC KS-1 folder and the new JSOC-SWR folder together.
 
+Requirements:
+
+- SPT 4.0.13
+- WTT-ServerCommonLib 2.0.20
+- EpicsAIO 4.0.8
+
+Dependency change: EpicsAIO is now required alongside WTT-ServerCommonLib.
+
 Highlights:
 
 - Added GFR and GFR-X weapon content.

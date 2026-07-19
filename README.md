@@ -33,6 +33,8 @@ This mod is server-side only. There is no BepInEx plugin for JSOC-SWR.
 - WTT-ServerCommonLib 2.0.20
 - EpicsAIO 4.0.8
 
+Dependency change from the old KAC KS-1 release: JSOC-SWR now requires EpicsAIO in addition to WTT-ServerCommonLib.
+
 ## Source
 
 The C# source used for the server loader DLL is in `src/JSOC_SWR`.
