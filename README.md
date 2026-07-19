@@ -50,3 +50,15 @@ Please credit bobinstein and EpicRangeTime when redistributing, mirroring, or sh
 ## Changelog
 
 See `CHANGELOG.md`.
+
+## Media
+
+![JSOC-SWR wall showcase](https://raw.githubusercontent.com/SpyPilotEFT/Spys-JSOC-SWR/main/media/jsoc-swr-wall-showcase.png)
+
+![LMT MRGG-A inspect](https://raw.githubusercontent.com/SpyPilotEFT/Spys-JSOC-SWR/main/media/lmt-mrgg-a-inspect.png)
+
+![Geissele Freedom Rifle MOD1 6mm ARC FDE inspect](https://raw.githubusercontent.com/SpyPilotEFT/Spys-JSOC-SWR/main/media/gfr-mod1-6arc-fde-inspect.png)
+
+![SOLGW MK1 camo inspect](https://raw.githubusercontent.com/SpyPilotEFT/Spys-JSOC-SWR/main/media/solgw-mk1-camo-inspect.png)
+
+![KAC KS-1 FDE inspect](https://raw.githubusercontent.com/SpyPilotEFT/Spys-JSOC-SWR/main/media/ks1-fde-inspect.png)
