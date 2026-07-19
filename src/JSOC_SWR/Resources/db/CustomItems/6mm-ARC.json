@@ -1,0 +1,1657 @@
+{
+  "6a4a562f95e30777bb32d394": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_bthp.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "AmmoLifeTimeSec": 5,
+      "ArmorDamage": 40,
+      "BallisticCoeficient": 0.53,
+      "BulletDiameterMilimeters": 6.17,
+      "BulletMassGram": 6.8,
+      "Damage": 65,
+      "DurabilityBurnModificator": 1.1,
+      "FragmentationChance": 0.25,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.01,
+      "InitialSpeed": 838,
+      "MalfFeedChance": 0.03,
+      "MalfMisfireChance": 0.05,
+      "MaxFragmentsCount": 3,
+      "MinFragmentsCount": 2,
+      "PenetrationChanceObstacle": 0.45,
+      "PenetrationDamageMod": 0.16,
+      "PenetrationPower": 32,
+      "PenetrationPowerDiviation": 1.3,
+      "RicochetChance": 0.35,
+      "SpeedRetardation": 0.000015,
+      "StackMaxRandom": 40,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.18,
+      "Weight": 0.016,
+      "ammoAccr": 5,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "StackMaxSize": 50,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6MM ARC BTHP",
+        "shortName": "6ARC BTHP",
+        "description": "The versatile 6mm ARC does much of what larger cartridges can and everything that smaller cartridges can’t. Designed to meet the needs of the world’s toughest critics, the 6mm ARC utilizes efficient, high‑BC bullets to deliver unprecedented performance from the AR‑15 platform. Commercial 6mm ARC offerings will feature bullets selected to deliver ideal performance for hunting, match shooting and personal protection applications."
+      }
+    },
+    "fleaPriceRoubles": 550,
+    "handbookPriceRoubles": 500,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 25,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "68f300000000000000000001": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 500
+          },
+          "barters": [
+            {
+              "count": 5,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aa0becc1b3dad6332d397": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_fmj.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "AmmoLifeTimeSec": 5,
+      "ArmorDamage": 40,
+      "BallisticCoeficient": 0.53,
+      "BulletDiameterMilimeters": 6.17,
+      "BulletMassGram": 6.8,
+      "Damage": 65,
+      "DurabilityBurnModificator": 1.05,
+      "FragmentationChance": 0.2,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.01,
+      "InitialSpeed": 823,
+      "MalfFeedChance": 0.03,
+      "MalfMisfireChance": 0.04,
+      "MaxFragmentsCount": 3,
+      "MinFragmentsCount": 2,
+      "PenetrationChanceObstacle": 0.45,
+      "PenetrationDamageMod": 0.16,
+      "PenetrationPower": 32,
+      "PenetrationPowerDiviation": 1.3,
+      "RicochetChance": 0.35,
+      "SpeedRetardation": 0.000015,
+      "StackMaxRandom": 40,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.18,
+      "Weight": 0.016,
+      "ammoAccr": 2,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "StackMaxSize": 50,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6MM ARC FMJ",
+        "shortName": "6ARC FMJ",
+        "description": "A full metal jacket practice loading of the 6mm ARC built around a 105-grain boat-tail projectile. Inexpensive and reliable for range work and training, it mirrors the trajectory and recoil impulse of the match loadings while trading terminal performance for sheer volume of fire."
+      }
+    },
+    "fleaPriceRoubles": 480,
+    "handbookPriceRoubles": 400,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 55,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aa0ff5890ac594c32d398": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99999
+          },
+          "barters": [
+            {
+              "count": 4,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aa148df2222d1b432d39a": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_eld_vt.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "AmmoLifeTimeSec": 5,
+      "ArmorDamage": 22,
+      "BallisticCoeficient": 0.41,
+      "BulletDiameterMilimeters": 6.17,
+      "BulletMassGram": 5.18,
+      "Damage": 80,
+      "DurabilityBurnModificator": 1.15,
+      "FragmentationChance": 0.85,
+      "HeatFactor": 1.1,
+      "HeavyBleedingDelta": 0.03,
+      "InitialSpeed": 895,
+      "MalfFeedChance": 0.02,
+      "MalfMisfireChance": 0.02,
+      "MaxFragmentsCount": 5,
+      "MinFragmentsCount": 3,
+      "PenetrationChanceObstacle": 0.15,
+      "PenetrationDamageMod": 0.25,
+      "PenetrationPower": 14,
+      "PenetrationPowerDiviation": 1.5,
+      "RicochetChance": 0.1,
+      "SpeedRetardation": 0.00002,
+      "StackMaxRandom": 40,
+      "StackMaxSize": 60,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.22,
+      "Weight": 0.014,
+      "ammoAccr": 8,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6MM ARC ELD-VT V-Match",
+        "shortName": "6ARC ELD-VT",
+        "description": "An 80-grain match/varmint loading on a thin-jacket, polymer-tipped bullet driven to high velocity. The light projectile sheds its energy violently on contact, producing dramatic fragmentation against soft targets at the expense of penetration — brutal on unarmored threats, all but useless against plates."
+      }
+    },
+    "fleaPriceRoubles": 750,
+    "handbookPriceRoubles": 700,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 15,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aa127b01fd21c7e32d399": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 250
+          },
+          "barters": [
+            {
+              "count": 6,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aa16780b78859de32d39c": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_eld_x.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "AmmoLifeTimeSec": 5,
+      "ArmorDamage": 36,
+      "BallisticCoeficient": 0.512,
+      "BulletDiameterMilimeters": 6.17,
+      "BulletMassGram": 6.67,
+      "Damage": 74,
+      "DurabilityBurnModificator": 1.1,
+      "FragmentationChance": 0.15,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.04,
+      "InitialSpeed": 853,
+      "MalfFeedChance": 0.02,
+      "MalfMisfireChance": 0.02,
+      "MaxFragmentsCount": 2,
+      "MinFragmentsCount": 1,
+      "PenetrationChanceObstacle": 0.35,
+      "PenetrationDamageMod": 0.2,
+      "PenetrationPower": 26,
+      "PenetrationPowerDiviation": 1.4,
+      "RicochetChance": 0.25,
+      "SpeedRetardation": 0.000016,
+      "StackMaxRandom": 40,
+      "StackMaxSize": 60,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.2,
+      "Weight": 0.016,
+      "ammoAccr": 6,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6MM ARC ELD-X Precision Hunter",
+        "shortName": "6ARC ELD-X",
+        "description": "A 103-grain controlled-expansion hunting load. The heavy-for-caliber bullet pairs a high ballistic coefficient with a bonded core and a heat-resistant tip, holding weight through intermediate barriers and cutting deep, consistent wound channels well past typical carbine range."
+      }
+    },
+    "fleaPriceRoubles": 900,
+    "handbookPriceRoubles": 850,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 15,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aa150b7906818a432d39b": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 150
+          },
+          "barters": [
+            {
+              "count": 7,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aac5a1b78b2520332d39d": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_eld_x.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "Damage": 57,
+      "PenetrationPower": 44,
+      "ArmorDamage": 48,
+      "InitialSpeed": 800,
+      "BallisticCoeficient": 0.58,
+      "BulletMassGram": 6.87,
+      "PenetrationChanceObstacle": 0.75,
+      "ammoAccr": 0,
+      "FragmentationChance": 0.1,
+      "AmmoLifeTimeSec": 5,
+      "BulletDiameterMilimeters": 6.17,
+      "DurabilityBurnModificator": 1.1,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.04,
+      "MalfFeedChance": 0.02,
+      "MalfMisfireChance": 0.02,
+      "MaxFragmentsCount": 2,
+      "MinFragmentsCount": 1,
+      "PenetrationDamageMod": 0.2,
+      "PenetrationPowerDiviation": 1.4,
+      "RicochetChance": 0.25,
+      "SpeedRetardation": 0.000016,
+      "StackMaxRandom": 40,
+      "StackMaxSize": 60,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.2,
+      "Weight": 0.016,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6mm ARC 106 gr TAP® (Barrier Blind)",
+        "shortName": "6ARC TAP BB",
+        "description": "A 106-grain barrier-blind duty load engineered to punch through auto glass, sheet steel and light cover while holding its flight path. The heavy bonded projectile trades fragmentation for penetration, making it the pick when the target is sitting behind something solid."
+      }
+    },
+    "fleaPriceRoubles": 1100,
+    "handbookPriceRoubles": 1000,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 5,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aacb625a495a1c932d39e": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 150
+          },
+          "barters": [
+            {
+              "count": 8,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aaccd31d44e07e632d39f": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_eld_x.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "Damage": 82,
+      "PenetrationPower": 12,
+      "ArmorDamage": 20,
+      "InitialSpeed": 920,
+      "BallisticCoeficient": 0.41,
+      "BulletMassGram": 5.18,
+      "PenetrationChanceObstacle": 0.1,
+      "ammoAccr": 2,
+      "FragmentationChance": 0.9,
+      "AmmoLifeTimeSec": 5,
+      "BulletDiameterMilimeters": 6.17,
+      "DurabilityBurnModificator": 1.1,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.04,
+      "MalfFeedChance": 0.02,
+      "MalfMisfireChance": 0.02,
+      "MaxFragmentsCount": 2,
+      "MinFragmentsCount": 1,
+      "PenetrationDamageMod": 0.2,
+      "PenetrationPowerDiviation": 1.4,
+      "RicochetChance": 0.25,
+      "SpeedRetardation": 0.000016,
+      "StackMaxRandom": 40,
+      "StackMaxSize": 60,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.2,
+      "Weight": 0.014,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6mm ARC 80 gr TAP Urban®",
+        "shortName": "6ARC TAP U",
+        "description": "An 80-grain rapid-fragmentation load tuned for close quarters and urban work. It dumps energy fast into soft tissue and resists over-penetration through interior walls, prioritizing immediate stopping power over any ability to defeat armor."
+      }
+    },
+    "fleaPriceRoubles": 650,
+    "handbookPriceRoubles": 600,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 5,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aad0560e19c22b532d3a0": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 250
+          },
+          "barters": [
+            {
+              "count": 5,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aad1cf9186952bb32d3a1": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_fmj.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "Damage": 63,
+      "PenetrationPower": 34,
+      "ArmorDamage": 38,
+      "InitialSpeed": 838,
+      "BallisticCoeficient": 0.536,
+      "BulletMassGram": 6.8,
+      "PenetrationChanceObstacle": 0.45,
+      "ammoAccr": 10,
+      "FragmentationChance": 0.25,
+      "AmmoLifeTimeSec": 5,
+      "BulletDiameterMilimeters": 6.17,
+      "DurabilityBurnModificator": 1.1,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.04,
+      "MalfFeedChance": 0.02,
+      "MalfMisfireChance": 0.02,
+      "MaxFragmentsCount": 2,
+      "MinFragmentsCount": 1,
+      "PenetrationDamageMod": 0.2,
+      "PenetrationPowerDiviation": 1.4,
+      "RicochetChance": 0.25,
+      "SpeedRetardation": 0.000016,
+      "StackMaxRandom": 40,
+      "StackMaxSize": 60,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.2,
+      "Weight": 0.016,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6mm ARC 105 gr OTM-A® (Open Tip Match)",
+        "shortName": "6ARC OTM-A",
+        "description": "A 105-grain open-tip match load. A precision-formed hollow point and tight concentricity put accuracy above everything else, making this the reference round for marksmanship and long-range shooting where group size matters more than terminal theatrics."
+      }
+    },
+    "fleaPriceRoubles": 780,
+    "handbookPriceRoubles": 700,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 5,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aad51f6772a956332d3a2": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 250
+          },
+          "barters": [
+            {
+              "count": 6,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aad88b3e2fa817632d3a3": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_eld_vt.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "Damage": 60,
+      "PenetrationPower": 38,
+      "ArmorDamage": 42,
+      "InitialSpeed": 884,
+      "BallisticCoeficient": 0.336,
+      "BulletMassGram": 5.83,
+      "PenetrationChanceObstacle": 0.6,
+      "ammoAccr": 5,
+      "FragmentationChance": 0.05,
+      "AmmoLifeTimeSec": 5,
+      "BulletDiameterMilimeters": 6.17,
+      "DurabilityBurnModificator": 1.1,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.04,
+      "MalfFeedChance": 0.02,
+      "MalfMisfireChance": 0.02,
+      "MaxFragmentsCount": 2,
+      "MinFragmentsCount": 1,
+      "PenetrationDamageMod": 0.2,
+      "PenetrationPowerDiviation": 1.4,
+      "RicochetChance": 0.25,
+      "SpeedRetardation": 0.000016,
+      "StackMaxRandom": 40,
+      "StackMaxSize": 60,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.2,
+      "Weight": 0.015,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6mm ARC 90 gr TAP Patrol®",
+        "shortName": "6ARC TAP-P",
+        "description": "A 90-grain general-purpose patrol load balancing penetration, barrier performance and terminal effect. A versatile duty round that gives up the extremes of the specialty loadings in exchange for predictable behavior across almost any situation."
+      }
+    },
+    "fleaPriceRoubles": 850,
+    "handbookPriceRoubles": 800,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 5,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aadd3ce3ca7ce2132d3a4": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 250
+          },
+          "barters": [
+            {
+              "count": 7,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4aadf64d18388dc132d3a5": {
+    "itemTplToClone": "54527ac44bdc2d36668b4567",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_eld_vt.bundle",
+        "rcid": ""
+      },
+      "Caliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "Damage": 61,
+      "PenetrationPower": 36,
+      "ArmorDamage": 39,
+      "InitialSpeed": 806,
+      "BallisticCoeficient": 0.68,
+      "BulletMassGram": 6.87,
+      "PenetrationChanceObstacle": 0.4,
+      "ammoAccr": 15,
+      "FragmentationChance": 0.15,
+      "AmmoLifeTimeSec": 5,
+      "BulletDiameterMilimeters": 6.17,
+      "DurabilityBurnModificator": 1.1,
+      "HeatFactor": 1.05,
+      "HeavyBleedingDelta": 0.04,
+      "MalfFeedChance": 0.02,
+      "MalfMisfireChance": 0.02,
+      "MaxFragmentsCount": 2,
+      "MinFragmentsCount": 1,
+      "PenetrationDamageMod": 0.2,
+      "PenetrationPowerDiviation": 1.4,
+      "RicochetChance": 0.25,
+      "SpeedRetardation": 0.000016,
+      "StackMaxRandom": 40,
+      "StackMaxSize": 60,
+      "StackMinRandom": 20,
+      "StaminaBurnPerDamage": 0.2,
+      "Weight": 0.016,
+      "casingEjectPower": 1,
+      "casingMass": 14.5,
+      "ConflictingItems": [
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "5fbe3ffdf8b6a877a729ea82",
+        "5fd20ff893a8961fc660a954",
+        "619636be6db0f2477964e710",
+        "6196364158ef8c428c287d9f",
+        "6196365d58ef8c428c287da1",
+        "64b8725c4b75259c590fa899"
+      ],
+      "Tracer": false,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "6mm ARC 106 gr A-TIP® Match",
+        "shortName": "6ARC A-TIP",
+        "description": "A 106-grain aluminum-tip match load, the precision apex of the 6mm ARC lineup. The machined tip and heavy, high-BC bullet minimize drift and drop at distance, reserved for the longest and most demanding shots on target."
+      }
+    },
+    "fleaPriceRoubles": 1300,
+    "handbookPriceRoubles": 1200,
+    "addtoBots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 5,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 100
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4aae207ef709d8ca32d3a6": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 100
+          },
+          "barters": [
+            {
+              "count": 10,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498e0a6442f820c932d36f": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_mag_8rd.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.09,
+      "magAnimationIndex": 6,
+      "CanFast": true,
+      "CanPutIntoDuringTheRaid": true,
+      "VisibleAmmoRangesString": "1-4",
+      "Slots": [],
+      "Grids": [],
+      "Cartridges": [
+        {
+          "_id": "6a498e726c198f657432d371",
+          "_name": "cartridges",
+          "_parent": "6a498e0a6442f820c932d36f",
+          "_max_count": 8,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4a562f95e30777bb32d394",
+                  "6a4aa0becc1b3dad6332d397",
+                  "6a4aa148df2222d1b432d39a",
+                  "6a4aa16780b78859de32d39c",
+                  "6a4aac5a1b78b2520332d39d",
+                  "6a4aaccd31d44e07e632d39f",
+                  "6a4aad1cf9186952bb32d3a1",
+                  "6a4aad88b3e2fa817632d3a3",
+                  "6a4aadf64d18388dc132d3a5"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Ergonomics": 3
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC ICM™ 8 round Magazine",
+        "shortName": "G* 6MM 8rd",
+        "description": "The Geissele Intermediate Cartridge Magazine is ultra-durable and purpose-built to ensure reliable feeding. The ICM™ is optimized for the 6mm ARC, 22 ARC and 6.5 Grendel cartridges, with bomb proof construction and full mil-spec compatibility. This magazine contains the following features:\n\n    Robust one piece construction\n    Laser welded\n    410 Stainless Steel Body and mating components\n    Stainless steel square spring for reliable feeding\n    Cartridge optimized feed lips\n    Anti-Tilt Follower\n    Corrosion Resistant\n    Made in the USA\n"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498e4d056780a59532d370": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 44,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498ef39e77abe6f432d372": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_mag_15rd.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "magAnimationIndex": 2,
+      "CanFast": true,
+      "CanPutIntoDuringTheRaid": true,
+      "VisibleAmmoRangesString": "1-4",
+      "Slots": [],
+      "Grids": [],
+      "Cartridges": [
+        {
+          "_id": "6a498efd1295802d4032d373",
+          "_name": "cartridges",
+          "_parent": "6a498ef39e77abe6f432d372",
+          "_max_count": 15,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4a562f95e30777bb32d394",
+                  "6a4aa0becc1b3dad6332d397",
+                  "6a4aa148df2222d1b432d39a",
+                  "6a4aa16780b78859de32d39c",
+                  "6a4aac5a1b78b2520332d39d",
+                  "6a4aaccd31d44e07e632d39f",
+                  "6a4aad1cf9186952bb32d3a1",
+                  "6a4aad88b3e2fa817632d3a3",
+                  "6a4aadf64d18388dc132d3a5"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Weight": 0.11,
+      "Ergonomics": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC ICM™ 15 round Magazine",
+        "shortName": "G* 6MM 15rd",
+        "description": "The Geissele Intermediate Cartridge Magazine is ultra-durable and purpose-built to ensure reliable feeding. The ICM™ is optimized for the 6mm ARC, 22 ARC and 6.5 Grendel cartridges, with bomb proof construction and full mil-spec compatibility. This magazine contains the following features:\n\n    Robust one piece construction\n    Laser welded\n    410 Stainless Steel Body and mating components\n    Stainless steel square spring for reliable feeding\n    Cartridge optimized feed lips\n    Anti-Tilt Follower\n    Corrosion Resistant\n    Made in the USA\n"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498f36a090900a3b32d374": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 49,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498f7958fe328f3532d376": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "6arc_mag_20rd.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "magAnimationIndex": 2,
+      "CanFast": true,
+      "CanPutIntoDuringTheRaid": true,
+      "VisibleAmmoRangesString": "1-4",
+      "Slots": [],
+      "Grids": [],
+      "Cartridges": [
+        {
+          "_id": "6a498f89903d1eed6032d378",
+          "_name": "cartridges",
+          "_parent": "6a498f7958fe328f3532d376",
+          "_max_count": 20,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4a562f95e30777bb32d394",
+                  "6a4aa0becc1b3dad6332d397",
+                  "6a4aa148df2222d1b432d39a",
+                  "6a4aa16780b78859de32d39c",
+                  "6a4aac5a1b78b2520332d39d",
+                  "6a4aaccd31d44e07e632d39f",
+                  "6a4aad1cf9186952bb32d3a1",
+                  "6a4aad88b3e2fa817632d3a3",
+                  "6a4aadf64d18388dc132d3a5"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Weight": 0.12,
+      "Ergonomics": -1
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC ICM™ 20 round Magazine",
+        "shortName": "G* 6MM 20rd",
+        "description": "The Geissele Intermediate Cartridge Magazine is ultra-durable and purpose-built to ensure reliable feeding. The ICM™ is optimized for the 6mm ARC, 22 ARC and 6.5 Grendel cartridges, with bomb proof construction and full mil-spec compatibility. This magazine contains the following features:\n\n    Robust one piece construction\n    Laser welded\n    410 Stainless Steel Body and mating components\n    Stainless steel square spring for reliable feeding\n    Cartridge optimized feed lips\n    Anti-Tilt Follower\n    Corrosion Resistant\n    Made in the USA\n"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498f916d4b3e3ce732d379": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498f9db5a904c3ef32d37a": {
+    "itemTplToClone": "55d4887d4bdc2d962f8b4570",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": false,
+      "Prefab": {
+        "path": "6arc_mag_30rd.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 0.14,
+      "ExtraSizeDown": 1,
+      "CanFast": true,
+      "CanPutIntoDuringTheRaid": true,
+      "VisibleAmmoRangesString": "1-4",
+      "CanSellOnRagfair": false,
+      "Slots": [],
+      "Grids": [],
+      "Cartridges": [
+        {
+          "_id": "6a4990325c079b690b32d37d",
+          "_name": "cartridges",
+          "_parent": "6a498f9db5a904c3ef32d37a",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4a562f95e30777bb32d394",
+                  "6a4aa0becc1b3dad6332d397",
+                  "6a4aa148df2222d1b432d39a",
+                  "6a4aa16780b78859de32d39c",
+                  "6a4aac5a1b78b2520332d39d",
+                  "6a4aaccd31d44e07e632d39f",
+                  "6a4aad1cf9186952bb32d3a1",
+                  "6a4aad88b3e2fa817632d3a3",
+                  "6a4aadf64d18388dc132d3a5"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Ergonomics": -3
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC ICM™ 30 round Magazine",
+        "shortName": "G* 6MM 30rd",
+        "description": "The Geissele Intermediate Cartridge Magazine is ultra-durable and purpose-built to ensure reliable feeding. The ICM™ is optimized for the 6mm ARC, 22 ARC and 6.5 Grendel cartridges, with bomb proof construction and full mil-spec compatibility. This magazine contains the following features:\n\n    Robust one piece construction\n    Laser welded\n    410 Stainless Steel Body and mating components\n    Stainless steel square spring for reliable feeding\n    Cartridge optimized feed lips\n    Anti-Tilt Follower\n    Corrosion Resistant\n    Made in the USA\n"
+      }
+    },
+    "fleaPriceRoubles": 57500,
+    "handbookPriceRoubles": 62500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498ff8bd9f5dff2532d37c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 59,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a499060281327df1e32d37f": {
+    "itemTplToClone": "55d4887d4bdc2d962f8b4570",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": false,
+      "Prefab": {
+        "path": "6arc_mag_30rd_choccy.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 0.14,
+      "ExtraSizeDown": 1,
+      "CanFast": true,
+      "CanPutIntoDuringTheRaid": true,
+      "VisibleAmmoRangesString": "1-4",
+      "CanSellOnRagfair": false,
+      "Slots": [],
+      "Grids": [],
+      "Cartridges": [
+        {
+          "_id": "6a49906412df0e347732d380",
+          "_name": "cartridges",
+          "_parent": "6a499060281327df1e32d37f",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4a562f95e30777bb32d394",
+                  "6a4aa0becc1b3dad6332d397",
+                  "6a4aa148df2222d1b432d39a",
+                  "6a4aa16780b78859de32d39c",
+                  "6a4aac5a1b78b2520332d39d",
+                  "6a4aaccd31d44e07e632d39f",
+                  "6a4aad1cf9186952bb32d3a1",
+                  "6a4aad88b3e2fa817632d3a3",
+                  "6a4aadf64d18388dc132d3a5"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Ergonomics": -3
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC ICM™ 30 round Magazine (Chocolate Chip Cerakote)",
+        "shortName": "G* 6MM 30rd Choccy",
+        "description": "The Geissele Intermediate Cartridge Magazine is ultra-durable and purpose-built to ensure reliable feeding. The ICM™ is optimized for the 6mm ARC, 22 ARC and 6.5 Grendel cartridges, with bomb proof construction and full mil-spec compatibility. This magazine contains the following features:\n\n    Robust one piece construction\n    Laser welded\n    410 Stainless Steel Body and mating components\n    Stainless steel square spring for reliable feeding\n    Cartridge optimized feed lips\n    Anti-Tilt Follower\n    Corrosion Resistant\n    Made in the USA\n"
+      }
+    },
+    "fleaPriceRoubles": 575000,
+    "handbookPriceRoubles": 625000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a499046af126ce37432d37e": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 159,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a49925a59d7813ce732d388": {
+    "itemTplToClone": "5a34fd2bc4a282329a73b4c5",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "hux_5_8_muzzle.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "6a499269b0bdc472d132d38a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a49925a59d7813ce732d388",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4993554daf73985d32d38d",
+                  "6a499362499cedb67632d38e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Recoil": -10,
+      "Loudness": 6,
+      "Weight": 0.13
+    },
+    "locales": {
+      "en": {
+        "name": "HUXWRX Muzzle Brake QD6 5/8-25\"",
+        "shortName": "HUXWRX QD6",
+        "description": "The HUXWRX Muzzle Brake QD6 5/8-25\" is DMLS printed in 17-4 Stainless Steel. It is full-auto rated and is compatible with 6mm platforms."
+      }
+    },
+    "fleaPriceRoubles": 70000,
+    "handbookPriceRoubles": 20000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a49917dcb6881096b32d386": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4993554daf73985d32d38d": {
+    "itemTplToClone": "5dfa3d2b0dee1b22f862eade",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "hux_5_8_sup_black.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [],
+      "Weight": 0.42,
+      "Recoil": -11,
+      "Ergonomics": -14,
+      "Loudness": -23
+    },
+    "locales": {
+      "en": {
+        "name": "HUXWRX FLOW 6K 6MM ARC Sound Suppressor - Black",
+        "shortName": "HUXWRX 6k Blk",
+        "description": "Precision redefined, the first dedicated 6mm Flow-Through® suppressor from HUXWRX Safety Co. to fit all applications. The FLOW 6k suppressor delivers superior toxic fume exposure mitigation, sound reduction, recoil reduction, accuracy, and repeatability. The integrated GEOFLASH® cap geometry effectively reduces flash signature without negatively impacting cycling or service life. The FLOW 6k is DMLS printed in 17-4 Stainless Steel. It is full-auto rated and compatible with 17 HMR, 5.56, 5.7, and 6mm platforms.\n\n \n\nCompatible with Muzzle Brake-QD556, QD6, and Flash Hider-QD556, QD6, in multiple thread patterns."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 151500,
+    "handbookPriceRoubles": 124500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4992c1491df7c87532d38b": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1204,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a499362499cedb67632d38e": {
+    "itemTplToClone": "5dfa3d2b0dee1b22f862eade",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "hux_5_8_sup_camo.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [],
+      "Weight": 0.42,
+      "Recoil": -11,
+      "Ergonomics": -14,
+      "Loudness": -23,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "HUXWRX FLOW 6K 6MM ARC Sound Suppressor - Multicam Tropic Cerakote",
+        "shortName": "HUXWRX 6k MCT",
+        "description": "Precision redefined, the first dedicated 6mm Flow-Through® suppressor from HUXWRX Safety Co. to fit all applications. The FLOW 6k suppressor delivers superior toxic fume exposure mitigation, sound reduction, recoil reduction, accuracy, and repeatability. The integrated GEOFLASH® cap geometry effectively reduces flash signature without negatively impacting cycling or service life. The FLOW 6k is DMLS printed in 17-4 Stainless Steel. It is full-auto rated and compatible with 17 HMR, 5.56, 5.7, and 6mm platforms.\n\n \n\nCompatible with Muzzle Brake-QD556, QD6, and Flash Hider-QD556, QD6, in multiple thread patterns."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1515000,
+    "handbookPriceRoubles": 1245000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 110
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 110
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 110
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 110
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 110
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 110
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a49939de982bfa03e32d38f": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2204,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

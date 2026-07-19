@@ -1,0 +1,131 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Core build settings -->
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>2.0.0</Version>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+    <InformationalVersion>2.0.0</InformationalVersion>
+    <AssemblyName>com.spy.jsoc-swr</AssemblyName>
+    <RootNamespace>JSOC_SWR</RootNamespace>
+    <Authors>SpyPilot, Bobinstien</Authors>
+    <Company>SpyPilot</Company>
+    <Product>Spy's JSOC-SWR</Product>
+    <Description>SPT server loader for Spy's JSOC-SWR weapon mod.</Description>
+    <OutputType>Library</OutputType>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
+
+    <!-- Release-style build flags (kept from your original) -->
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+
+  <!-- DEPLOYMENT PATHS -->
+  <PropertyGroup>
+    <!-- SPT install root; override on the command line with /p:SptRoot=... if needed -->
+    <SptRoot Condition="'$(SptRoot)' == ''">C:\SPT\SPT</SptRoot>
+
+    <!-- The final folder where the mod lives in SPT -->
+    <SptModsDir>$(SptRoot)\user\mods\spys-JSOC-SWR</SptModsDir>
+
+    <!-- Internal Project Paths -->
+    <ResourcesDir>$(ProjectDir)Resources</ResourcesDir>
+  </PropertyGroup>
+
+  <!-- SPT / framework references needed to compile (do NOT copy to output) -->
+  <ItemGroup>
+    <Reference Include="SPTarkov.DI" HintPath="$(SptRoot)\SPTarkov.DI.dll" Private="false" />
+    <Reference Include="SPTarkov.Server.Core" HintPath="$(SptRoot)\SPTarkov.Server.Core.dll" Private="false" />
+    <Reference Include="SemanticVersioning" HintPath="$(SptRoot)\SemanticVersioning.dll" Private="false" />
+  </ItemGroup>
+
+  <!-- WTT is provided by its own mod at runtime; PackageReference is compile-only.
+       (Dropped the duplicate local <Reference> to WTT-ServerCommonLib.dll.) -->
+  <ItemGroup>
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.20" />
+  </ItemGroup>
+
+  <!-- 1. DEFINE ITEMS TO COPY -->
+  <ItemGroup>
+      <BundlesJson Include="Resources\bundles.json" />
+
+    <!-- All JSON under Resources\db (CustomAssortSchemes, CustomItems, CustomLocales, ...) -->
+    <DbFiles Include="Resources\db\**\*.json" />
+
+    <!-- Any db images (item icons, etc.) if/when you add them -->
+    <DbImages Include="Resources\db\**\*.png" />
+  </ItemGroup>
+
+  <!-- Folder structure for Visual Studio organization -->
+  <ItemGroup>
+    <Folder Include="Resources\bundles\" />
+    <Folder Include="Resources\db\CustomAssortSchemes\" />
+    <Folder Include="Resources\db\CustomLocales\" />
+  </ItemGroup>
+
+  <!-- 2. DEPLOYMENT TARGET -->
+  <Target Name="DeployMod" AfterTargets="Build">
+    <Message Importance="high" Text="[DeployMod] Starting Deployment to $(SptModsDir)..." />
+
+    <!-- A. Copy the DLL -->
+    <Copy SourceFiles="$(TargetDir)$(TargetName).dll"
+          DestinationFolder="$(SptModsDir)"
+          OverwriteReadOnlyFiles="true"
+          SkipUnchangedFiles="false" />
+
+    <!-- B. Copy bundles.json to mod root -->
+    <Message Importance="high" Text="[DeployMod] Copying bundles.json..." />
+    <Copy SourceFiles="@(BundlesJson)" 
+          DestinationFolder="$(SptModsDir)" 
+          OverwriteReadOnlyFiles="true" 
+          SkipUnchangedFiles="false" />
+
+    <!-- C. Copy DB JSON (maintaining folder structure) -->
+    <Message Importance="high" Text="[DeployMod] Copying DB files..." />
+    <Copy SourceFiles="@(DbFiles)"
+          DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)"
+          OverwriteReadOnlyFiles="true"
+          SkipUnchangedFiles="false" />
+
+    <!-- D. Copy DB images (maintaining folder structure) -->
+    <Copy SourceFiles="@(DbImages)"
+          DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)"
+          OverwriteReadOnlyFiles="true"
+          SkipUnchangedFiles="false" />
+
+    <!-- E. Handle bundles (Resources\bundles -> mod\bundles) -->
+    <MakeDir Directories="$(SptModsDir)\bundles" />
+
+    <!-- Copy bundles recursively -->
+    <Exec Command="xcopy &quot;$(ResourcesDir)\bundles&quot; &quot;$(SptModsDir)\bundles&quot; /E /I /Y" />
+
+    <!-- Flatten: move all files from subfolders to root of bundles, IGNORING "textures" folders -->
+    <Exec Command="
+      for /r &quot;$(SptModsDir)\bundles&quot; %%F in (*) do (
+        if /I not &quot;%%~dpF&quot;==&quot;$(SptModsDir)\bundles\&quot; (
+          echo &quot;%%~dpF&quot; | find /i &quot;\textures\&quot; &gt;nul
+          if errorlevel 1 (
+            move /Y &quot;%%F&quot; &quot;$(SptModsDir)\bundles&quot;
+          )
+        )
+      )
+    " />
+
+    <!-- Remove empty subfolders (bottom-up so nested empties are removed) -->
+    <Exec Command="
+      for /f &quot;usebackq delims=&quot; %%d in (`dir /ad /b /s &quot;$(SptModsDir)\bundles&quot; ^| sort /r`) do (
+        rd &quot;%%d&quot; 2&gt;nul
+      )
+    " />
+
+    <Message Importance="high" Text="[DeployMod] Deployment Complete." />
+  </Target>
+
+</Project>

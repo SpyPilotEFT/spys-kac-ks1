@@ -1,0 +1,878 @@
+{
+  "e20c4faf13f794df81947cc0": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f78e986f77447ed5636b1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "weapon_lmt_308.bundle",
+        "rcid": ""
+      },
+      "Chambers": [
+        {
+          "_id": "6a5a8509fd9c8948d911089c",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "e20c4faf13f794df81947cc0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a6086ea4f39f99cd479502f",
+                  "5a608bf24f39f98ffc77720e",
+                  "58dd3ad986f77403051cba8f",
+                  "5e023e53d4353e3302577c4c",
+                  "5efb0c1bd79ff02a1f5e68d9",
+                  "5e023e6e34d52a55c3304f71",
+                  "5e023e88277cce2b522ff2b1",
+                  "6768c25aa7b238f14a08d3f6"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "Slots": [
+        {
+          "_id": "6a5a850c619c69421011089d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "e20c4faf13f794df81947cc0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "69e240e5d1701dbc14ff185d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a5a850f0249cd65a911089e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "e20c4faf13f794df81947cc0",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "5df8f535bb49d91fb446d6b0",
+                  "5df8f541c41b2312ea3335e3",
+                  "5a3501acc4a282000d72293a",
+                  "65293c38fc460e50a509cb25",
+                  "65293c7a17e14363030ad308",
+                  "6761770e48fa5c377e06fc3c",
+                  "69e239f2a9e8af1931ff1856",
+                  "69e24048770bbffb64ff185a"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "6a5a8513070971f3d011089f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "e20c4faf13f794df81947cc0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "638de3603a1a4031d8260b8c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a5a851800e3c1bd4a1108a0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "e20c4faf13f794df81947cc0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5df8e4080b92095fd441e594",
+                  "6698d07a9c0503243e3753b4",
+                  "69e23553ebf64594eaff184a",
+                  "69e2596c1fad487eefff1872"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a5a851cb64f738ed31108a1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_charge",
+          "_parent": "e20c4faf13f794df81947cc0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5df8e085bb49d91fb446d6a8",
+                  "5df8e053bb49d91fb446d6a6",
+                  "e64912750c88040771d66ffb",
+                  "69e2578f9e2f3658f4ff1863",
+                  "69e258159d49bea7aaff1867"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "Weight": 0.5,
+      "Ergonomics": 44,
+      "RecoilForceUp": 155,
+      "RecoilForceBack": 445,
+      "bFirerate": 700,
+      "SingleFireRate": 400,
+      "SightingRange": 800,
+      "Velocity": 0,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "LMT MRGG-A 7.62x51mm Marksman Rifle",
+        "shortName": "MRGG-A",
+        "description": "LMT's 7.62x51 gas gun built on the company's signature monolithic upper platform. The Modular Rail Gas Gun pairs a one-piece upper and rail for a rock-solid optic-to-bore relationship with an ambidextrous lower and two-stage trigger, delivering the reach and terminal authority of full-power .308 in a semi-automatic package that still handles like a fighting rifle. Purpose-built for designated-marksman and precision duty roles."
+      }
+    },
+    "fleaPriceRoubles": 48000,
+    "handbookPriceRoubles": 48000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "a6aafb27db8b4d35230f4be5": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2200,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6698d07a9c0503243e3753b4": {
+    "itemTplToClone": "5df8e4080b92095fd441e594",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "lmt_upper.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "6a5a8417e58ccc014811088f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a842abb2b4e398c110891",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5df917564a9f347bc92edca3",
+                  "5dfa397fb11454561e39246c",
+                  "69e237d415d999736dff1850"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a5a842804ab20adf1110890",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4",
+                  "5fc0fa957283c4046c58147e",
+                  "5fb6564947ce63734e3fa1da",
+                  "61817865d3a39d50044c13a4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a847c864856ac46110893",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a847d0fd2315d0e110894",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a847f315ca9fc5e110895",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a8481a25ab35053110896",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a84839025dc444e110897",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a848502db86f0f4110898",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "6698d07a9c0503243e3753b4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.7,
+      "Ergonomics": 5,
+      "Recoil": -4,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "LMT MRP 7.62x51 Monolithic Upper Receiver",
+        "shortName": "LMT MRP Upper",
+        "description": "LMT's monolithic upper receiver — a single forging that merges the receiver and free-float rail into one rigid unit. Eliminating the barrel-nut interface preserves optic zero under hard use and gives the rail exceptional stability for lasers, lights and night vision."
+      }
+    },
+    "fleaPriceRoubles": 40000,
+    "handbookPriceRoubles": 40000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "81179b2a949709b53a042963": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 350,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "c497ecaeab7101ff8353e2ba": {
+    "itemTplToClone": "5df917564a9f347bc92edca3",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "lmt_barrel.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.95,
+      "Ergonomics": -6,
+      "Recoil": -5,
+      "Velocity": 0,
+      "HeatFactorGun": 0.9,
+      "CoolFactorGun": 1.1,
+      "Slots": [
+        {
+          "_id": "6a5a84bca7184554a111089a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "c497ecaeab7101ff8353e2ba",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a5a84c06c67bd062811089b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "c497ecaeab7101ff8353e2ba",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6065dc8a132d4d12c81fd8e3",
+                  "5a34fbadc4a28200741e230a",
+                  "5dfa3d45dfc58d14537c20b0",
+                  "da5f5ff91e54e90be6094a10"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "LMT MRGG-A 7.62x51 16 inch barrel",
+        "shortName": "LMT 16\"",
+        "description": "A 16-inch chrome-lined, cold-hammer-forged 7.62x51 barrel for the LMT monolithic platform. LMT's quick-change barrel design lets the shooter swap tubes without losing zero, and the heavier .308 profile keeps point-of-impact stable through sustained strings of fire."
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 55000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "8098efade8328b1d5945c5af": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 480,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "da5f5ff91e54e90be6094a10": {
+    "itemTplToClone": "5dfa3d45dfc58d14537c20b0",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "lmt_gasblock.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.06,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "LMT AR-10 Low Profile Gas Block",
+        "shortName": "LMT LPGB",
+        "description": "A low-profile gas block for the AR-10 platform, sitting cleanly beneath a free-float rail. Precisely bored for reliable gas metering with .308-length gas systems, suppressed or unsuppressed."
+      }
+    },
+    "fleaPriceRoubles": 16000,
+    "handbookPriceRoubles": 16000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_gas_block"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "b7574c2512eaf01076b31e3a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "e64912750c88040771d66ffb": {
+    "itemTplToClone": "5df8e085bb49d91fb446d6a8",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "lmt_charging_handle.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.05,
+      "Ergonomics": 1,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "LMT AR-10 Ambidextrous Charging Handle",
+        "shortName": "LMT CH",
+        "description": "An ambidextrous extended charging handle for AR-10 pattern rifles, giving positive purchase for support-hand or strong-hand manipulation and clearing optics and mounts without fouling."
+      }
+    },
+    "fleaPriceRoubles": 14000,
+    "handbookPriceRoubles": 14000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "3b148dc0f2e59d1e3244bc03": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "4431b2616e47b7d26e96fd0a": {
+    "itemTplToClone": "5b39f8db5acfc40016387a1b",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "magpul_dt_black.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.23,
+      "Ergonomics": 2,
+      "Recoil": -4,
+      "HasShoulderContact": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul DT Carbine Stock Black",
+        "shortName": "Magpul DT BLACK",
+        "description": "A collapsible carbine buttstock with a rubber recoil pad and a snag-free profile. Multiple length-of-pull positions let the shooter tune fit across armor and kit, while the shielded release latch resists accidental collapse."
+      }
+    },
+    "fleaPriceRoubles": 24000,
+    "handbookPriceRoubles": 24000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock",
+      "mod_stock_000"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "dbcf4aca08af2360fb9eddfe": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 110,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "4f39c6e400295c0620af4290": {
+    "itemTplToClone": "5b39f8db5acfc40016387a1b",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "magpul_dt_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.23,
+      "Ergonomics": 2,
+      "Recoil": -4,
+      "HasShoulderContact": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul DT Carbine Stock FDE",
+        "shortName": "Magpul DT FDE",
+        "description": "A collapsible carbine buttstock with a rubber recoil pad and a snag-free profile. Multiple length-of-pull positions let the shooter tune fit across armor and kit, while the shielded release latch resists accidental collapse."
+      }
+    },
+    "fleaPriceRoubles": 26000,
+    "handbookPriceRoubles": 26000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock",
+      "mod_stock_000"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "19a607182bace13d3f243241": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 120,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+    "name":  "spys-JSOC-SWR",
+    "version":  "2.0.0",
+    "sptVersion":  "4.0.13",
+    "main":  "com.spy.jsoc-swr.dll",
+    "license":  "CC BY-NC-ND 4.0",
+    "author":  "SpyPilot",
+    "contributors":  [
+                         "bobinstein - Unity/Blender/shader help",
+                         "EpicRangeTime - shaders"
+                     ],
+    "description":  "Spy\u0027s JSOC-SWR weapon mod for SPT 4.0.13. Server-side only."
+}
+

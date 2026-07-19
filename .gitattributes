@@ -1,3 +1,5 @@
 *.bundle filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
 **/bundles/textures/ks1-tex filter=lfs diff=lfs merge=lfs -text
+**/bundles/geissele_grip_a22_tan filter=lfs diff=lfs merge=lfs -text
+**/bundles/textures/lmt-textures filter=lfs diff=lfs merge=lfs -text

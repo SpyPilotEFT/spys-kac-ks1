@@ -1,0 +1,811 @@
+{
+    "manifest": [
+        {
+      "key": "spy_shaders.bundle",
+      "dependencyKeys": []
+    },
+      {
+        "key": "textures/gfr-6arc-textures.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "textures/gfr-x-textures.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle"
+        ]
+      },
+      {
+        "key": "textures/lmt-textures.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle"
+        ]
+      },
+    {
+      "key": "textures/solgw_textures.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle"
+      ]
+    },
+     {
+      "key": "textures/ks1-tex.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle"
+      ]
+    },
+        {
+      "key": "charge_kac_ks1_ambi.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "charge_kac_ks1_ambi_black.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "gas_block_kac_ks1_low_profile.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "handguard_kac_urx6_15_black.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "handguard_kac_urx6_15_fde.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "handguard_kac_urx6_105_black.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "handguard_kac_urx6_105_fde.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "handguard_kac_urx6_1275_black.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "handguard_kac_urx6_1275_fde.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "mount_kac_mlok_to_pic.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "muzzle_kac_ks1_3prong.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "reciever_kac_ks1_upper_black.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "reciever_kac_ks1_upper_fde.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    
+    {
+      "key": "stock_kac_ks1_receiver_extension_fde.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    
+    
+    {
+      "key": "weapon_kac_ks1_16_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_16_barrel_black.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_115_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_115_barrel_black.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_137_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_137_barrel_black.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_145_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_145_barrel_black.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_556x45_black_container.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    {
+      "key": "weapon_kac_ks1_556x45_container.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/ks1-tex.bundle"
+      ]
+    },
+    
+    {
+      "key": "solgw_barrel_115.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "solgw_barrel_145.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "solgw_buffer.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "solgw_charginghandle_black.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+   
+    {
+      "key": "solgw_handguard_black_10.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_handguard_black_12.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_upper_black.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    {
+      "key": "weapon_solgw_black.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+
+
+
+        {
+      "key": "solgw_charginghandle_tan.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+   
+    {
+      "key": "solgw_handguard_fde_10.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_handguard_fde_12.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_upper_fde.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    {
+      "key": "weapon_solgw_fde.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+
+    
+        {
+      "key": "solgw_charginghandle_grey.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+   
+    {
+      "key": "solgw_handguard_grey_10.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_handguard_gray_12.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_upper_grey.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    {
+      "key": "weapon_solgw_grey.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+            {
+      "key": "solgw_charginghandle_odg.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    {
+      "key": "solgw_charginghandle_bronze.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+   
+    {
+      "key": "solgw_handguard_camo_10.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_handguard_camo_12.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+
+    {
+      "key": "solgw_upper_camo.bundle",
+      "dependencyKeys": [
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+    {
+      "key": "weapon_solgw_camo.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "spy_shaders.bundle",
+        "textures/solgw_textures.bundle"
+      ]
+    },
+      {
+        "key": "6arc_bthp.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle"
+        ]
+      },
+      {
+        "key": "6arc_eld_vt.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle"
+        ]
+      },
+      {
+        "key": "6arc_eld_x.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle"
+        ]
+      },
+      {
+        "key": "6arc_fmj.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle"
+        ]
+      },
+      {
+        "key": "6arc_barrel_16.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_barrel_18.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_barrel_20.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_barrel_145.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_mag_8rd.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_mag_15rd.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_mag_20rd.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_mag_30rd.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "6arc_mag_30rd_choccy.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "geissele_grip_a22_tan.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "geissele_grip_black.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "geissele_grip_tan.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "geissele_stock_black.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "geissele_stock_tan.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_buffer_black.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_buffer_tan.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_gas_block.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_handguard_135_black.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_handguard_135_tan.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_handguard_165_black.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_handguard_165_tan.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_upper_black.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfr_upper_tan.bundle",
+        "dependencyKeys": [
+          "assets/commonassets/physics/physicsmaterials.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "geissele_charging.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfrx_barrel_556.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfrx_gas_block.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfrx_handguard_quad.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "gfrx_upper.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "hux_5_8_muzzle.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "hux_5_8_sup_black.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "hux_5_8_sup_camo.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle"
+        ]
+      },
+      {
+        "key": "weapon_gfr_6arc.bundle",
+        "dependencyKeys": [
+          "assets/content/audio/blendoptions/assets.bundle",
+          "textures/gfr-6arc-textures.bundle",
+          "spy_shaders.bundle",
+          "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+          "assets/content/weapons/additional_hands/client_assets.bundle",
+          "textures/gfr-x-textures.bundle",
+          "assets/content/weapons/weapon_root_anim_fix.bundle"
+
+        ]
+      },
+      {
+        "key": "weapon_gfr_6arc_fde.bundle",
+        "dependencyKeys": [
+          "assets/content/audio/blendoptions/assets.bundle",
+          "assets/content/weapons/additional_hands/client_assets.bundle",
+          "assets/content/weapons/weapon_root_anim_fix.bundle",
+          "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-6arc-textures.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "weapon_gfr_x.bundle",
+        "dependencyKeys": [
+          "assets/content/audio/blendoptions/assets.bundle",
+          "assets/content/weapons/additional_hands/client_assets.bundle",
+          "assets/content/weapons/weapon_root_anim_fix.bundle",
+          "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+          "spy_shaders.bundle",
+          "textures/gfr-x-textures.bundle"
+        ]
+      },
+      {
+        "key": "weapon_lmt_308.bundle",
+        "dependencyKeys": [
+          "assets/content/audio/blendoptions/assets.bundle",
+          "assets/content/weapons/additional_hands/client_assets.bundle",
+          "assets/content/weapons/weapon_root_anim_fix.bundle",
+          "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+          "spy_shaders.bundle",
+          "textures/lmt-textures.bundle"
+        ]
+      },
+      {
+        "key": "lmt_barrel.bundle",
+        "dependencyKeys": [
+          "assets/systems/effects/smoke.bundle",
+          "shaders",
+          "spy_shaders.bundle",
+          "textures/lmt-textures.bundle"
+        ]
+      },
+      {
+        "key": "lmt_gasblock.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/lmt-textures.bundle"
+        ]
+      },
+      {
+        "key": "lmt_charging_handle.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/lmt-textures.bundle"
+        ]
+      },
+      {
+        "key": "lmt_upper.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/lmt-textures.bundle"
+        ]
+      },
+      {
+        "key": "magpul_dt_black.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/lmt-textures.bundle"
+        ]
+      },
+      {
+        "key": "magpul_dt_fde.bundle",
+        "dependencyKeys": [
+          "spy_shaders.bundle",
+          "textures/lmt-textures.bundle"
+        ]
+      }
+    ]
+}

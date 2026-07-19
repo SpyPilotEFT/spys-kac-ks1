@@ -1,0 +1,2036 @@
+{
+  "6a4984896b23a3cb9a32d302": {
+    "itemTplToClone": "5d43021ca4b9362eab4b5e25",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "weapon_gfr_6arc.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.4,
+      "bFirerate": 800,
+      "ConflictingItems": [],
+      "RecoilForceBack": 395,
+      "RecoilForceUp": 132,
+      "Ergonomics": 42,
+      "SightingRange": 500,
+      "Velocity": 0,
+      "DurabilityBurnRatio": 0.95,
+      "HeatFactorGun": 0.95,
+      "CoolFactorGun": 1.05,
+      "Slots": [
+        {
+          "_id": "6a498495834424618932d303",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "6a4984896b23a3cb9a32d302",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e2ff6d174af02a1659d4a",
+                  "5a33e75ac4a2826c6e06d759",
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "6a49911178ded31d0232d383",
+                  "6a49911b2b6058feb932d384",
+                  "6a4aa043613607d28f32d396"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a4984bece635eeabf32d305",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6a4984896b23a3cb9a32d302",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a498e0a6442f820c932d36f",
+                  "6a498ef39e77abe6f432d372",
+                  "6a498f7958fe328f3532d376",
+                  "6a498f9db5a904c3ef32d37a",
+                  "6a499060281327df1e32d37f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "6a4984c8aa12f9703732d306",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "6a4984896b23a3cb9a32d302",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a498c71dda906144f32d364",
+                  "6a4985a7ac135f3df232d30c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a4984da0f55c7025032d307",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "6a4984896b23a3cb9a32d302",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a33ca0fc4a282000d72292f",
+                  "5c0faeddd174af02a962601f",
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "5947e98b86f774778f1448bc",
+                  "5947eab886f77475961d96c5",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "638de3603a1a4031d8260b8c",
+                  "6761777a1f08ed5e8800b7ac",
+                  "6a3db4105e381c3c9fc17073",
+                  "6a498b1b7d93f01b6a32d357",
+                  "6a498bb3b3f45596bb32d35b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a4984ed3c4804a14732d308",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_charge",
+          "_parent": "6a4984896b23a3cb9a32d302",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0faf68d174af02a96260b8",
+                  "56ea7165d2720b6e518b4583",
+                  "55d44fd14bdc2d962f8b456e",
+                  "5ea16d4d5aad6446a939753d",
+                  "5bb20dbcd4351e44f824c04e",
+                  "6033749e88382f4fab3fd2c5",
+                  "5b2240bf5acfc40dc528af69",
+                  "5d44334ba4b9362b346d1948",
+                  "5f633ff5c444ce7e3c30a006",
+                  "651bf5617b3b552ef6712cb7",
+                  "67f1a1000000000000000104",
+                  "67f1a2000000000000000104",
+                  "6a3daa0190367e3f64c17053",
+                  "6a3daa0190367e3f64c17101",
+                  "6a3daa0190367e3f64c17102",
+                  "6a3daa0190367e3f64c17103",
+                  "6a3daa0190367e3f64c17104",
+                  "6a4a54c4dedfd2327f32d392"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "weapClass": "assaultRifle",
+      "weapUseType": "primary",
+      "ammoCaliber": "Caliber6ARC",
+      "defAmmo": "6a4a562f95e30777bb32d394",
+      "weapFireType": [
+        "single"
+      ],
+      "SingleFireRate": 450,
+      "CanQueueSecondShot": true,
+      "BoltAction": false,
+      "ReloadMode": "ExternalMagazine",
+      "isChamberLoad": true,
+      "isBoltCatch": true,
+      "Chambers": [
+        {
+          "_id": "6a4985204343bd34ca32d309",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "6a4984896b23a3cb9a32d302",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4a562f95e30777bb32d394",
+                  "6a4aa0becc1b3dad6332d397",
+                  "6a4aa148df2222d1b432d39a",
+                  "6a4aa16780b78859de32d39c",
+                  "6a4aac5a1b78b2520332d39d",
+                  "6a4aaccd31d44e07e632d39f",
+                  "6a4aad1cf9186952bb32d3a1",
+                  "6a4aad88b3e2fa817632d3a3",
+                  "6a4aadf64d18388dc132d3a5"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "AllowFeed": true,
+      "AllowJam": true,
+      "AllowMisfire": true,
+      "AllowSlide": true,
+      "AllowOverheat": true,
+      "defMagType": "6a498e0a6442f820c932d36f",
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele Freedom Rifle® MOD1, 6MM ARC Recce - Black",
+        "shortName": "MOD1 Black",
+        "description": "The GFR® (Geissele Freedom Rifle®) Recce MOD1 builds on the backbone of the proven GFR® line, purpose-built for serious use. The modern shooter, whether duty, defender, hunter or competitor, requires tools that offer the best performance and balance for when it counts.\n\n \n\nTraditionally, shooters faced a tradeoff: the lightweight agility of small-frame platforms often meant sacrificing range and power, while large-frame rifles delivered performance at the cost of added weight and bulk. The emergence of 6mm ARC presented a promising solution, a balance of capability and efficiency. The Geissele Freedom Rifle® was purpose-built around the cartridge and designed to maximize performance of 6mmARC while preserving flawless reliability."
+      }
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4985a4fe6495988232d30b": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1800,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4985a7ac135f3df232d30c": {
+    "itemTplToClone": "5c07a8770db8340023300450",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.35,
+      "Ergonomics": 4,
+      "Recoil": -2,
+      "Slots": [
+        {
+          "_id": "6a4985b7374396032d32d30d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6a4985a7ac135f3df232d30c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5d0a29fed7ad1a002769ad08",
+                  "570fd6c2d2720bc6458b457f",
+                  "5a33b652c4a28232996e407c",
+                  "5dfe6104585a0c3e995c7b82",
+                  "6567e751a715f85433025998",
+                  "58d39d3d86f77445bb794ae7",
+                  "5b2389515acfc4771e1be0c0",
+                  "68caacc7933990601c07f479",
+                  "e3dcf75199f821636a95cb9b",
+                  "7af1b735539670b26a3fe68b",
+                  "62811f461d5df4475f46a332",
+                  "93efffa7844876067d81dca5",
+                  "655f13e0a246670fb0373245",
+                  "57adff4f24597737f373b6e6",
+                  "686b15f7cf5ae78dbd7b950b",
+                  "695d6236499f37e727446f60",
+                  "686a5a6247c881f613196f91",
+                  "5ae30bad5acfc400185c2dc4",
+                  "685760329044ae9bac9012c3",
+                  "6857624d565daea78886d0c2",
+                  "685e519eacaed4c4e66980a7",
+                  "685e52e7038ea03a82a7a2c1",
+                  "685e52a030452e0aa23b53b6",
+                  "685e5326a119194a7cbaa34e",
+                  "685e5339826695a4b438120c",
+                  "5d2dc3e548f035404a1a4798",
+                  "03f6c86c56945862820e1006",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "58d2664f86f7747fec5834f6",
+                  "6478641c19d732620e045e17",
+                  "591c4efa86f7741030027726",
+                  "685b40db60670990eb71ca2d",
+                  "7ca248803b89788492384ba2",
+                  "41e97223a2ad6374a096ae14",
+                  "558022b54bdc2dac148b458d",
+                  "6859411da7ac91f2e4088de4",
+                  "696c2c39eaf80d744d6f5b36",
+                  "696958420d2309811a0fd1d5",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "2e681ada9836f6e030080191",
+                  "e1543def58291668bac8e2c8",
+                  "befd7a2bbc07793f73133f2c",
+                  "686a950f332bd39442d996c7",
+                  "686a959fea53389283823a5e",
+                  "877f002b7dadc7ae31d1fda1",
+                  "c26f2af872656829feb27c08",
+                  "68599b6ad4d99d0c051b5964",
+                  "68599c5272359bd6b568656c",
+                  "68599c64f0a918bcd731198f",
+                  "577d128124597739d65d0e56",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "68611c8d57834d1471676982",
+                  "68611d271b5181217dee6c31",
+                  "68611d79d2f8c2caf35ddd39",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "b2d57758abe9bb9345c58e4a",
+                  "67ea8b32e0d7701fc6bfc5bf",
+                  "616554fe50224f204c1da2aa",
+                  "544a3a774bdc2d3a388b4567",
+                  "64785e7c19d732620e045e15",
+                  "6858fa27c104e3493576fd53",
+                  "687e09aa7e70e1e285c59d4e",
+                  "6960bc9172fcb3eb9da96b7c",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "5b30b0dc5acfc400153b7124",
+                  "bbb4d0bc91c7fa46425e47c8",
+                  "b994d0bc91c7fa46425e47c9",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "de53b0fd978f0eaad71c5528",
+                  "d3e07e32dc01693c226878dc",
+                  "6761759e7ee06333f108bf86",
+                  "5a37ca54c4a282000d72296a",
+                  "f849f458cb4ad62c5d8b96e1",
+                  "86f1db244188717106a25806",
+                  "5c86592b2e2216000e69e77c",
+                  "609a63b6e2ff132951242d09",
+                  "35adebfd2014a2861056138b",
+                  "2e31bdb165e6f6f7ac19b0d8",
+                  "8d9e9ff3020f92eb5fc46680",
+                  "57c69dd424597774c03b7bbc",
+                  "5c7d55f52e221644f31bff6a",
+                  "5ae3d18efa17cbd51e898ced",
+                  "688a0bf28cdd409ce60911ce",
+                  "08940f5c853aa6acf4049bc2",
+                  "685ac95d7bde7c5e19ba8d89",
+                  "685acb7cdabf1c595fd9b3b7",
+                  "686a990e217f312ed3fe65bf",
+                  "686a99b24e95c2b6c57ef026",
+                  "6655df2d0169bf45a18535c8",
+                  "794a8aea9ca78d01fc24a4f8",
+                  "570fd721d2720bc5458b4596",
+                  "615d8d878004cc50514c3233",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "570fd79bd2720bc7458b4583",
+                  "692deffb1966298e696fcd8f",
+                  "695fca555fc8a1adfb51a4a3",
+                  "544a3f024bdc2d1d388b4568",
+                  "584984812459776a704a82a6",
+                  "57ae0171245977343c27bfcf",
+                  "5c0505e00db834001b735073",
+                  "68642e0200397ba2b9e4ea9a",
+                  "5c0517910db83400232ffee5",
+                  "5c064c400db834001d23f468",
+                  "616584766ef05c2ce828ef57",
+                  "20c6ee849ac15cb4e31472c9",
+                  "013a6d4ff28f8e4331898d68",
+                  "55dccd6302404bfc237a814e",
+                  "1c852a7fd73bcde9d3ff968b",
+                  "71e6bc96b1a4cce0b4340b20",
+                  "986150a30f2c89c4555dead5",
+                  "f07a16a89f1c954f72bbf50e",
+                  "7e07f0150bb32a595e2c142b",
+                  "5a33b2c9c4a282000c5a9511",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "684ef6bc3fcbe11882807386",
+                  "684f2ebbd4f01748a7d154b9",
+                  "684f2eed5600200459543ecc",
+                  "6477772ea8a38bb2050ed4db",
+                  "60a23797a37c940de7062d02",
+                  "0377e32842c4024a423c472e",
+                  "81fb194d053a4ccedce3782d",
+                  "68922e39bacf39d24ca68ddf",
+                  "6897de1182f827c8f199f355",
+                  "67641a851b2899700609901a",
+                  "5c1cdd302e221602b3137250",
+                  "4330375080cfa3b0acf681c0",
+                  "dc443bf6ab32570c69096e37",
+                  "66079d40016c0de3509a31e7",
+                  "ca9b71e00031160119ab1e58",
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "797e1ab4422217d7cfe3d299",
+                  "12f2d58f76f9629580851b6f",
+                  "68caacb4c8ac87b10507c5a6",
+                  "5d2da1e948f035477b1ce2ba",
+                  "2322ee962f6c77a1284abc1e",
+                  "61714b2467085e45ef140b2c",
+                  "609bab8b455afd752b2e6138",
+                  "58c3819c7e3f0593dbb9851a",
+                  "59db7eed86f77461f8380365",
+                  "626bb8532c923541184624b4",
+                  "59f9d81586f7744c7506ee62",
+                  "22345a1c542354f86796efda",
+                  "a5c171496c1870f205a3c972",
+                  "be932f93b18038949ec47085",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "5dff77c759400025ea5150cf",
+                  "696395af1b7e04938307a124",
+                  "5b3b6dc75acfc40a8773fb1e",
+                  "695ffdaedd28a71ea5446f66",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "63fc449f5bd61c6cf3784a88"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a4985c10a53d4906a32d30e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "6a4985a7ac135f3df232d30c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a498801056a19d56d32d317",
+                  "6a498893f1d74ec6cc32d31d",
+                  "6a4988b966aaa42b3832d322",
+                  "6a4988d6e6befb6acb32d327"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a4985dd97f044c30632d30f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "6a4985a7ac135f3df232d30c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e2f5cd174af02a012cfc9",
+                  "619b5db699fb192e7430664f",
+                  "5b2cfa535acfc432ff4db7a0",
+                  "5ae30db85acfc408fb139a05",
+                  "5c9a25172e2216000f20314e",
+                  "55f84c3c4bdc2d5f408b4576",
+                  "588b56d02459771481110ae2",
+                  "5c9a26332e2216001219ea70",
+                  "5ea16ada09aa976f2e7a51be",
+                  "5ea16acdfadf1d18c87b0784",
+                  "55d459824bdc2d892f8b4573",
+                  "5d122e7bd7ad1a07102d6d7f",
+                  "5d123102d7ad1a004e475fe5",
+                  "5d4405f0a4b9361e6a4e6bd9",
+                  "5c78f2792e221600106f4683",
+                  "5c78f26f2e221601da3581d1",
+                  "5c78f2492e221600114c9f04",
+                  "5c78f2612e221600114c9f0d",
+                  "6034e3e20ddce744014cb878",
+                  "6034e3d953a60014f970617b",
+                  "6034e3cb0ddce744014cb870",
+                  "5c6d5d8b2e221644fc630b39",
+                  "5d00e0cbd7ad1a6c6566a42d",
+                  "5d00f63bd7ad1a59283b1c1e",
+                  "6087e0336d0bd7580617bb7a",
+                  "595cfa8b86f77427437e845b",
+                  "595cf16b86f77427440c32e2",
+                  "63888bbd28e5cc32cc09d2b6",
+                  "63f4ba71f31d4a33b87bd046",
+                  "640b20359ab20e15ee445fa9",
+                  "647de824196bf69818044c93",
+                  "6a3db319a3d2c9be0ec1705d",
+                  "6a3db319a3d2c9be0ec17101",
+                  "6a3db319a3d2c9be0ec17102",
+                  "6a3db319a3d2c9be0ec17103",
+                  "6a3db38bfbceb602afc17068",
+                  "6a3db38bfbceb602afc17101",
+                  "6a3db38bfbceb602afc17102",
+                  "6a3db38bfbceb602afc17103",
+                  "6a4988e8964a3b687e32d32a",
+                  "6a498ab3de5c16d4fb32d341",
+                  "6a498a7665bd6a175e32d337",
+                  "6a498af44fdb5b2ab832d34d",
+                  "6a5a60d5d1065dd4fa110879"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a49870d978b09b90932d310",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "6a4985a7ac135f3df232d30c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Prefab": {
+        "path": "gfr_upper_black.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele Freedom Rifle® Recce MOD1 Upper Black",
+        "shortName": "MOD1 Upper Blk",
+        "description": "The GFR® Recce MOD1 introduces intuitive full ambidextrous controls. A magazine release on the left side of the receiver below the Maritime Bolt Catch makes mag changes swift for left-handed use. The right side of the receiver features bolt catch and release buttons below the ejection port. The shooter uses the dust cover to apply pressure to the bolt catch to lock the bolt open, and a release button just rearward easily sends the bolt forward. This instinctive system doesn’t just accommodate left- or right-handed use, but enhances mechanical flow under pressure. Reloads and malfunction clearances are faster and more consistent—critical when seconds matter. Whether on the move or on the bench, everything works in concert to meet real-world performance demands."
+      }
+    },
+    "fleaPriceRoubles": 22000,
+    "handbookPriceRoubles": 22000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a49876277e58870a332d311": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 185,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498801056a19d56d32d317": {
+    "itemTplToClone": "63d3ce0446bd475bcb50f55f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.62,
+      "Ergonomics": -5,
+      "Recoil": -2,
+      "Velocity": -12,
+      "HeatFactorGun": 0.9,
+      "CoolFactorGun": 1.1,
+      "Slots": [
+        {
+          "_id": "6a498804e12fe7d23b32d318",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a498801056a19d56d32d317",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "6a49925a59d7813ce732d388"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498811076604765232d319",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a498801056a19d56d32d317",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4994bf50c96453c432d390"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "Prefab": {
+        "path": "6arc_barrel_145.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC 14.5 inch barrel",
+        "shortName": "G* 14.5\"",
+        "description": "Using the highest quality barrels that are cold hammer forged and chrome-lined in house, surgical precision is ensured and durability is guaranteed. The Nanoweapon®-coated Reliability Enhanced BCG with forged Carpenter 158+ bolt sets the standard for long-term endurance under high round counts and adverse conditions. The patented Phased Array™ Gas Technology significantly reduces recoil impulse for an extremely smooth shooting experience and quicker target reacquisition."
+      }
+    },
+    "fleaPriceRoubles": 44000,
+    "handbookPriceRoubles": 44000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a49885e3ceb4522d032d31a": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 455,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498893f1d74ec6cc32d31d": {
+    "itemTplToClone": "63d3ce0446bd475bcb50f55f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.72,
+      "Ergonomics": -7,
+      "Recoil": -3,
+      "Velocity": -8,
+      "HeatFactorGun": 0.9,
+      "CoolFactorGun": 1.1,
+      "Slots": [
+        {
+          "_id": "6a498899fec0c8a6bd32d31f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a498893f1d74ec6cc32d31d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "6a49925a59d7813ce732d388"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a49889cc4fc5d266a32d320",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a498893f1d74ec6cc32d31d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4994bf50c96453c432d390"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "Prefab": {
+        "path": "6arc_barrel_16.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC 16 inch barrel",
+        "shortName": "G* 16\"",
+        "description": "Using the highest quality barrels that are cold hammer forged and chrome-lined in house, surgical precision is ensured and durability is guaranteed. The Nanoweapon®-coated Reliability Enhanced BCG with forged Carpenter 158+ bolt sets the standard for long-term endurance under high round counts and adverse conditions. The patented Phased Array™ Gas Technology significantly reduces recoil impulse for an extremely smooth shooting experience and quicker target reacquisition."
+      }
+    },
+    "fleaPriceRoubles": 48000,
+    "handbookPriceRoubles": 48000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a49888a435ba284c332d31c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 455,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4988b966aaa42b3832d322": {
+    "itemTplToClone": "63d3ce0446bd475bcb50f55f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.85,
+      "Ergonomics": -10,
+      "Recoil": -4,
+      "Velocity": -5,
+      "HeatFactorGun": 0.9,
+      "CoolFactorGun": 1.1,
+      "Slots": [
+        {
+          "_id": "6a4988bd8d0faa8eab32d323",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a4988b966aaa42b3832d322",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "6a49925a59d7813ce732d388"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a4988c0d26011facc32d324",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a4988b966aaa42b3832d322",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4994bf50c96453c432d390"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "Prefab": {
+        "path": "6arc_barrel_18.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC 18 inch barrel",
+        "shortName": "G* 18\"",
+        "description": "Using the highest quality barrels that are cold hammer forged and chrome-lined in house, surgical precision is ensured and durability is guaranteed. The Nanoweapon®-coated Reliability Enhanced BCG with forged Carpenter 158+ bolt sets the standard for long-term endurance under high round counts and adverse conditions. The patented Phased Array™ Gas Technology significantly reduces recoil impulse for an extremely smooth shooting experience and quicker target reacquisition."
+      }
+    },
+    "fleaPriceRoubles": 53000,
+    "handbookPriceRoubles": 53000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4988aaf9623c927832d321": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 455,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4988d6e6befb6acb32d327": {
+    "itemTplToClone": "63d3ce0446bd475bcb50f55f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.98,
+      "Ergonomics": -13,
+      "Recoil": -5,
+      "Velocity": -3,
+      "HeatFactorGun": 0.9,
+      "CoolFactorGun": 1.1,
+      "Slots": [
+        {
+          "_id": "6a4988d82182ba790f32d328",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a4988d6e6befb6acb32d327",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "6a49925a59d7813ce732d388"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a4988db68a60ef58632d329",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a4988d6e6befb6acb32d327",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a4994bf50c96453c432d390"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "Prefab": {
+        "path": "6arc_barrel_20.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 6MM ARC 20 inch barrel",
+        "shortName": "G* 20\"",
+        "description": "Using the highest quality barrels that are cold hammer forged and chrome-lined in house, surgical precision is ensured and durability is guaranteed. The Nanoweapon®-coated Reliability Enhanced BCG with forged Carpenter 158+ bolt sets the standard for long-term endurance under high round counts and adverse conditions. The patented Phased Array™ Gas Technology significantly reduces recoil impulse for an extremely smooth shooting experience and quicker target reacquisition."
+      }
+    },
+    "fleaPriceRoubles": 58000,
+    "handbookPriceRoubles": 58000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4988d30e9917cc5732d326": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 455,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4988e8964a3b687e32d32a": {
+    "itemTplToClone": "5c78f2612e221600114c9f0d",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.31,
+      "Ergonomics": 11,
+      "Recoil": -2,
+      "Slots": [
+        {
+          "_id": "6a498923faec9fbc5a32d32b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a4989256d4111808032d32c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a49892b11241010ae32d32d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_003",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a49893085e953508132d32e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a49894031a813e1e332d330",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_004",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "671126b049e181972e0681fa",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a4989585c58cd2bda32d331",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "560d657b4bdc2da74d8b4572",
+                  "56def37dd2720bec348b456a",
+                  "5a5f1ce64f39f90b401987bc",
+                  "5c079ed60db834001a66b372",
+                  "5d2369418abbc306c62e0c80",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "681bb00c7fecf6d490b2fb3c",
+                  "68f8ccbc4c78615ba6079b20",
+                  "68947a8ce4bf255d1b0ca759",
+                  "68f25b27abc35769c505f959",
+                  "68bedc0365e7dcf94f0cb0fc",
+                  "68a85ab8ef22d08bf401fa68",
+                  "ce1100bc91c7fa46425e47c8",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "8fb322f5202cf87746ec83b4",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "0257250579c25ee07a7fd721",
+                  "e99dbf09963efebab19a118b",
+                  "0ce051265bcb619558b2ef9a",
+                  "77f31a56076dc8e398797a7c",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "694f146cd178947eaf000001",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a49895dea8ebbfdf432d332",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "698a78331bb1f79e210fe924",
+                  "68bb6be346d4437fb40002e0",
+                  "85a2077a2a40a73a0f95f74a",
+                  "f07a16a89f1c954f72bbf50e",
+                  "7e07f0150bb32a595e2c142b",
+                  "cc932f93b18038949ec47085"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498960fb4a5a87af32d333",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "6771857578614af1411b7d9e",
+                  "677187150147ea6631f5b93f",
+                  "68272a652182ac144f61b957",
+                  "6828cd508974345baeecac96",
+                  "6828cd620cb2ca5c4c8b318b",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95",
+                  "69127fcffb534981300b1d7d",
+                  "69127fcffb534981300b1d7f",
+                  "69127fcffb534981300b1d81",
+                  "69127fcffb534981300b1d83",
+                  "69127fcffb534981300b1d85",
+                  "6912857dfb534981300b1d87",
+                  "69075ee9f4b1abd5ba0a1bb3",
+                  "5c262445ceaffa8a1cd9e758",
+                  "6893d1e2483f058199f2e199",
+                  "6893d31fca58c9d45599e903",
+                  "6893d333cb3f8611941742d3",
+                  "6893d360fa62405a6249629b",
+                  "6893d3810e4a42c4c08b3eb4",
+                  "6893d391a029e7f8210fa511",
+                  "cc341526d1587cba81574e7f",
+                  "68827aaba06fa1cf759ec88d",
+                  "696fc803cf7469bf38051731",
+                  "696fe281cf7469bf3805173c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a4989634c663501dc32d334",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "6a4988e8964a3b687e32d32a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Prefab": {
+        "path": "gfr_handguard_135_black.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 13.5\" Super Modular Rail MK16 M-LOK Black",
+        "shortName": "G* 13.5\" Blk",
+        "description": "The Geissele Super Modular Rail MK16 offers unmatched performance for the most demanding shooters. Mounted to your AR-15 upper using the updated version of the proven Geissele Barrel Nut design, the MK16 is not only easy to install and maintain, but offers superior rigidity. Anti-rotation tabs and set-screws ensure that your rail will not rotate, even under the most extreme conditions of use. M1913 picatinny rail on top and M-LOK™ slots on every quadrant ensures maximum customization for all your accessories. The Geissele Super Modular Rail MK16 is precision machined using 7000 Series Aluminum due to its strong, rigid and light properties, and is finished in durable Type-3 Hardcoat anodized.  Also available in 9.3\", 10.5\", and 15\" lengths!\n\nThe Super Modular Rail 13.5\" MK16 M-LOK®, NSN#1005-01-672-4797 (13.5”), has been adopted by USASOC for the URG-I program (Upper Receiver Group Improved)."
+      }
+    },
+    "fleaPriceRoubles": 42000,
+    "handbookPriceRoubles": 42000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498a272912e3eee832d335": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 350,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498a7665bd6a175e32d337": {
+    "itemTplToClone": "5c78f2612e221600114c9f0d",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.35,
+      "Ergonomics": 10,
+      "Recoil": -3,
+      "Slots": [
+        {
+          "_id": "6a498a990a3d98f65732d340",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a972aaa4a905532d33f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a95fb123e58f032d33e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_003",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a939579a7ad1f32d33d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "689c8b454b91399db3085f2a",
+                  "f44250bc91c7fa46425e47c8",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a91fd2c0af40332d33c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_004",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "671126b049e181972e0681fa",
+                  "67f1a2000000000000000103"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a8f1a453652b532d33b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "560d657b4bdc2da74d8b4572",
+                  "56def37dd2720bec348b456a",
+                  "5a5f1ce64f39f90b401987bc",
+                  "5c079ed60db834001a66b372",
+                  "5d2369418abbc306c62e0c80",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "681bb00c7fecf6d490b2fb3c",
+                  "68f8ccbc4c78615ba6079b20",
+                  "68947a8ce4bf255d1b0ca759",
+                  "68f25b27abc35769c505f959",
+                  "68bedc0365e7dcf94f0cb0fc",
+                  "68a85ab8ef22d08bf401fa68",
+                  "ce1100bc91c7fa46425e47c8",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "8fb322f5202cf87746ec83b4",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "0257250579c25ee07a7fd721",
+                  "e99dbf09963efebab19a118b",
+                  "0ce051265bcb619558b2ef9a",
+                  "77f31a56076dc8e398797a7c",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "694f146cd178947eaf000001",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a8c8cd5da822232d33a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "698a78331bb1f79e210fe924",
+                  "68bb6be346d4437fb40002e0",
+                  "85a2077a2a40a73a0f95f74a",
+                  "f07a16a89f1c954f72bbf50e",
+                  "7e07f0150bb32a595e2c142b",
+                  "cc932f93b18038949ec47085"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a8a29618088d032d339",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "6771857578614af1411b7d9e",
+                  "677187150147ea6631f5b93f",
+                  "68272a652182ac144f61b957",
+                  "6828cd508974345baeecac96",
+                  "6828cd620cb2ca5c4c8b318b",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95",
+                  "69127fcffb534981300b1d7d",
+                  "69127fcffb534981300b1d7f",
+                  "69127fcffb534981300b1d81",
+                  "69127fcffb534981300b1d83",
+                  "69127fcffb534981300b1d85",
+                  "6912857dfb534981300b1d87",
+                  "69075ee9f4b1abd5ba0a1bb3",
+                  "5c262445ceaffa8a1cd9e758",
+                  "6893d1e2483f058199f2e199",
+                  "6893d31fca58c9d45599e903",
+                  "6893d333cb3f8611941742d3",
+                  "6893d360fa62405a6249629b",
+                  "6893d3810e4a42c4c08b3eb4",
+                  "6893d391a029e7f8210fa511",
+                  "cc341526d1587cba81574e7f",
+                  "68827aaba06fa1cf759ec88d",
+                  "696fc803cf7469bf38051731",
+                  "696fe281cf7469bf3805173c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a498a88d0d7da556e32d338",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "6a498a7665bd6a175e32d337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Prefab": {
+        "path": "gfr_handguard_165_black.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele 15\" Super Modular Rail MK16 M-LOK Black",
+        "shortName": "G* 15\" Blk",
+        "description": "The Geissele Super Modular Rail MK16 offers unmatched performance for the most demanding shooters. Mounted to your AR-15 upper using the updated version of the proven Geissele Barrel Nut design, the MK16 is not only easy to install and maintain, but offers superior rigidity. Anti-rotation tabs and set-screws ensure that your rail will not rotate, even under the most extreme conditions of use. M1913 picatinny rail on top and M-LOK™ slots on every quadrant ensures maximum customization for all your accessories. The Geissele Super Modular Rail MK16 is precision machined using 7000 Series Aluminum due to its strong, rigid and light properties, and is finished in durable Type-3 Hardcoat anodized.  Also available in 9.3\", 10.5\", and 15\" lengths!\n\nThe Super Modular Rail 13.5\" MK16 M-LOK®, NSN#1005-01-672-4797 (13.5”), has been adopted by USASOC for the URG-I program (Upper Receiver Group Improved)."
+      }
+    },
+    "fleaPriceRoubles": 42000,
+    "handbookPriceRoubles": 42000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498a623a7ceedf2d32d336": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 350,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498b1b7d93f01b6a32d357": {
+    "itemTplToClone": "5649be884bdc2d79388b4577",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Recoil": -2,
+      "Slots": [
+        {
+          "_id": "6a498b20c1e57d9dd032d358",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock_000",
+          "_parent": "6a498b1b7d93f01b6a32d357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fc2369685fd526b824a5713",
+                  "606587d11246154cad35d635",
+                  "5a9eb32da2750c00171b3f9c",
+                  "5bfe86df0db834001b734685",
+                  "55d4ae6c4bdc2d8b2f8b456e",
+                  "5c87a07c2e2216001219d4a2",
+                  "5bb20e70d4351e0035629f8f",
+                  "5beec8c20db834001d2c465c",
+                  "5fbbaa86f9986c4cff3fe5f6",
+                  "5fce16961f152d4312622bc9",
+                  "5ae30c9a5acfc408fb139a03",
+                  "5d135e83d7ad1a21b83f42d8",
+                  "5d135ecbd7ad1a21c176542e",
+                  "56eabf3bd2720b75698b4569",
+                  "58d2946386f774496974c37e",
+                  "58d2946c86f7744e271174b5",
+                  "58d2947686f774485c6a1ee5",
+                  "58d2947e86f77447aa070d53",
+                  "5d44069ca4b9361ebd26fc37",
+                  "5d4406a8a4b9361e4f6eb8b7",
+                  "5947c73886f7747701588af5",
+                  "5c793fde2e221601da358614",
+                  "5b39f8db5acfc40016387a1b",
+                  "628a85ee6b1d481ff772e9d5",
+                  "602e620f9b513876d4338d9a",
+                  "6516e91f609aaf354b34b3e2",
+                  "6516e971a3d4c6497930b450",
+                  "6529370c405a5f51dd023db8",
+                  "6a498da87758bb924732d36d",
+                  "6a498d79bc4f658c5e32d36c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Prefab": {
+        "path": "gfr_buffer_black.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "Weight": 0.11
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele Premium Mil-Spec Buffer Tube with Super 42® H1 - Black ",
+        "shortName": "G* Buffer Black",
+        "description": "The Geissele Premium Mil-Spec Buffer Tube is machined from quality 7075-T6 Aluminum and finished in Type 3 Hardcoat Anodize, available in Black or Geissele’s DDC. This rigid and durable buffer tube conforms to all mil-spec standards and features 6 stock positions. This carbine length and mil-spec diameter Premium Buffer Tube is made in the USA and weighs in at 3.7oz, making it the perfect fit for your AR-15 lower and ensuring compatibility with most mil-spec diameter quality AR-15 stocks. Included in the package is a high-quality, mil-spec castle nut and end plate."
+      }
+    },
+    "fleaPriceRoubles": 2850,
+    "handbookPriceRoubles": 2850,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "addtoInventorySlots": [],
+    "modSlot": [
+      "mod_stock"
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498b9066b1cc145132d359": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a498d79bc4f658c5e32d36c": {
+    "itemTplToClone": "5ae30c9a5acfc408fb139a03",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "geissele_stock_black.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.21,
+      "HasShoulderContact": true,
+      "RaidModdable": true,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele SBS Buttstock Black",
+        "shortName": "G* SBS Blk",
+        "description": "A Geissele SBS Buttstock in Black"
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock",
+      "mod_stock_000"
+    ],
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 60000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a498cfefe06be6a7d32d36b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 250,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a49911178ded31d0232d383": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "geissele_grip_black.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.08,
+      "Ergonomics": 6,
+      "ExtraSizeDown": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "MergesWithChildren": true,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele A17 Grip Black",
+        "shortName": "G* A17 Blk",
+        "description": "The Geissele A17 Grip is a modern take on the classic 1911 grip angle for the AR15/M4 platform.  Incorporating a similar angle as the well-known 1911, the Geissele A17 Grip also features attractive anti-slip texturing and a thicker palm swell to assist with easily attaining a high tight hold."
+      }
+    },
+    "fleaPriceRoubles": 18500,
+    "handbookPriceRoubles": 17500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4990daae8967112732d382": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4994bf50c96453c432d390": {
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "gfr_gas_block.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "Grids": [],
+      "Weight": 0.06
+    },
+    "locales": {
+      "en": {
+        "name": "Geissele Antistrike Super Compact Gas Block",
+        "shortName": "G* ASCGB",
+        "description": "The Geissele Antistrike Super Compact Gas Block is machined from 4140 steel and finished in a durable nitride coating. Its low profile clears free-float handguards while the anti-strike shoulder shields the gas port from damage under hard use, delivering consistent gas metering through sustained fire."
+      }
+    },
+    "fleaPriceRoubles": 18500,
+    "handbookPriceRoubles": 17500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6a4994c735f43657ce32d391": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
